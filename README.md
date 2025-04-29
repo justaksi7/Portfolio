@@ -1,6 +1,6 @@
-# 👋 Hallo, ich bin Max Mustermann!
+# 👋 Hallo, ich bin Aksel Kenanov!
 
-Ich bin Informatikstudent im letzten Fachsemester mit Fokus auf **Webentwicklung**, **Backend-Architektur** und **Machine Learning**.  
+Ich bin Informatikstudent im letzten Fachsemester mit Fokus auf Software Engineering insbesondere Webentwicklung und Künstliche Intelligenz insbesondere Machine Learning.  
 Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Technologien zu entdecken.
 
 ---
@@ -9,10 +9,10 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 
 | Kategorie        | Technologien                               |
 |------------------|---------------------------------------------|
-| Sprachen         | Python, Java, JavaScript, SQL              |
-| Web & Frameworks | React, Node.js, Express, Django, Flask     |
-| Datenbanken      | MongoDB, PostgreSQL, MySQL                 |
-| Tools & DevOps   | Git, Docker, VS Code, Postman, GitHub      |
+| Sprachen         | C / C++, Python, Java, JavaScript / TypeScript, SQL, Dart, PHP              |
+| Web & Frameworks | Webentwicklung mit React, Node.js, Express, Tailwind-CSS,    |
+| Datenbanken      | PostgerSQL - ORM mit Drizzle-ORM (JavaScript / TypeScript), Administration mit pgAdmin                 |
+| Tools & DevOps   | Git, Docker, VS Code, Postman, GitHub, GitLab      |
 
 ---
 
