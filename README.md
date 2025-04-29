@@ -11,22 +11,24 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 |------------------|---------------------------------------------|
 | Sprachen         | C / C++, Python, Java, JavaScript / TypeScript, SQL, Dart, PHP              |
 | Web & Frameworks | React, Node.js, Express, Tailwind-CSS  mit TypeScript / JavaScript  |
-| C / C++ |        |Businessanwendungen mit Qt, 3D-Computergrafik mit Qt-3D, Embedded Programmierung mit Raspberry PICO|
+| C / C++ |        Businessanwendungen mit Qt, 3D-Computergrafik mit Qt-3D, Embedded Programmierung mit Raspberry PICO|
 | Java                 |  Businessanwendungen mit Spring Boot  |
 |  Python |    Machine Learning mit Scikit Learn und Artificial Neural Networks mit Keras und Tensorflow |
 |   PHP        |  Backend-Entwicklung ohne Framework   |
 | Datenbanken      | PostgerSQL - ORM mit Drizzle-ORM (JavaScript / TypeScript), Administration mit pgAdmin                 |
 | Tools & DevOps   | Git, Docker, Postman; Continuous Integration und Continuous Deployment mit GitLab / GitHub, Software Metrics mit SonarQube  |
+|Agile Softwareentwicklung                  | SCRUM mit SCRUM-Boards und Kan-Boards  |
+
 
 
 ---
 
-## 💼 Projekte (Auswahl)
+## 💼 Projekte
 
-### 📌 [Task Manager App](https://github.com/maxmustermann/taskmanager)
-> Web-App zur Aufgabenverwaltung mit User-Login, Priorisierung & Kalender
-- **Stack:** React, Node.js, MongoDB
-- **Features:** JWT-Auth, REST API, Responsive Design
+### 📌 [Buchungsverwaltungssystem]
+> Eine Cross-Platform-App zur Buchung und Management von Events mit mehreren Nutzern
+- **Stack:** Flutter (Dart), PostgreSQL
+- **Features:** Responsive Design (UX / UI), Requirements Engineering und Ux / UI-Evaluierung mit echten Nutzern 
 
 ---
 
@@ -37,18 +39,11 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 
 ---
 
-### 🧠 [Bachelorarbeit: KI für Anomalieerkennung](https://github.com/maxmustermann/thesis-ai-network)
-> Analyse von Netzwerkdaten mit ML zur Bedrohungserkennung
-- **Tools:** Scikit-learn, Pandas, Jupyter
-- **Ergebnis:** 92% Genauigkeit bei der Klassifikation
-
----
 
 ## 📫 Kontakt & Profile
 
-- 💼 [LinkedIn](https://linkedin.com/in/maxmustermann)
-- 🧑‍💻 [GitHub](https://github.com/maxmustermann)
-- ✉️ max@example.com
+- 🧑‍💻 [GitHub](https://github.com/justaksi7)
+- ✉️ aksel.kenanov@gmail.com
 
 ---
 
