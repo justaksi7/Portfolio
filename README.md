@@ -1,69 +1,50 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mein Portfolio – Max Mustermann</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
-    header { background: #2b2b2b; color: #fff; padding: 20px; text-align: center; }
-    section { padding: 20px; }
-    h2 { color: #2b2b2b; }
-    .project { border-bottom: 1px solid #ccc; padding: 10px 0; }
-    a { color: #0066cc; text-decoration: none; }
-  </style>
-</head>
-<body>
+# 👋 Hallo, ich bin Max Mustermann!
 
-  <header>
-    <h1>Max Mustermann – Informatikstudent</h1>
-    <p>Email: max@example.com | GitHub: github.com/max</p>
-  </header>
+Ich bin Informatikstudent im letzten Fachsemester mit Fokus auf **Webentwicklung**, **Backend-Architektur** und **Machine Learning**.  
+Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Technologien zu entdecken.
 
-  <section>
-    <h2>Über mich</h2>
-    <p>Ich bin Informatikstudent im letzten Fachsemester mit einem Schwerpunkt auf Webentwicklung und Datenanalyse.</p>
-  </section>
+---
 
-  <section>
-    <h2>Technologien</h2>
-    <ul>
-      <li>Programmiersprachen: Python, Java, JavaScript</li>
-      <li>Frameworks: React, Django, Spring Boot</li>
-      <li>Datenbanken: MySQL, MongoDB</li>
-      <li>Tools: Git, Docker, VS Code</li>
-    </ul>
-  </section>
+## 🧰 Technologien & Tools
 
-  <section>
-    <h2>Projekte</h2>
+| Kategorie        | Technologien                               |
+|------------------|---------------------------------------------|
+| Sprachen         | Python, Java, JavaScript, SQL              |
+| Web & Frameworks | React, Node.js, Express, Django, Flask     |
+| Datenbanken      | MongoDB, PostgreSQL, MySQL                 |
+| Tools & DevOps   | Git, Docker, VS Code, Postman, GitHub      |
 
-    <div class="project">
-      <h3>Projekt: Task Manager App</h3>
-      <p>Ein Webtool zur Verwaltung von Aufgaben mit React + Node.js</p>
-      <p><strong>Meine Rolle:</strong> Full-Stack-Entwicklung</p>
-      <p><a href="https://github.com/max/taskmanager" target="_blank">GitHub-Link</a></p>
-    </div>
+---
 
-    <div class="project">
-      <h3>Projekt: Wetter-API Dashboard</h3>
-      <p>Visualisierung von Wetterdaten mit Python und Flask</p>
-      <p><strong>Meine Rolle:</strong> Backend & API-Anbindung</p>
-      <p><a href="https://github.com/max/wetter-api" target="_blank">GitHub-Link</a></p>
-    </div>
-  </section>
+## 💼 Projekte (Auswahl)
 
-  <section>
-    <h2>Abschlussarbeit</h2>
-    <p><strong>Thema:</strong> KI-basierte Anomalieerkennung in Netzwerkdaten</p>
-    <p>Analyse und Modellierung von Netzwerkverkehr mit Machine Learning</p>
-  </section>
+### 📌 [Task Manager App](https://github.com/maxmustermann/taskmanager)
+> Web-App zur Aufgabenverwaltung mit User-Login, Priorisierung & Kalender
+- **Stack:** React, Node.js, MongoDB
+- **Features:** JWT-Auth, REST API, Responsive Design
 
-  <section>
-    <h2>Kontakt</h2>
-    <p>Email: max@example.com</p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/max" target="_blank">linkedin.com/in/max</a></p>
-  </section>
+---
 
-</body>
-</html>
+### 📊 [Wetter-Dashboard](https://github.com/maxmustermann/weather-dashboard)
+> Visualisierung aktueller Wetterdaten über OpenWeatherMap API
+- **Stack:** Python, Flask, Chart.js
+- **Features:** API-Parsing, interaktive Diagramme
+
+---
+
+### 🧠 [Bachelorarbeit: KI für Anomalieerkennung](https://github.com/maxmustermann/thesis-ai-network)
+> Analyse von Netzwerkdaten mit ML zur Bedrohungserkennung
+- **Tools:** Scikit-learn, Pandas, Jupyter
+- **Ergebnis:** 92% Genauigkeit bei der Klassifikation
+
+---
+
+## 📫 Kontakt & Profile
+
+- 💼 [LinkedIn](https://linkedin.com/in/maxmustermann)
+- 🧑‍💻 [GitHub](https://github.com/maxmustermann)
+- ✉️ max@example.com
+
+---
+
+> 📌 _Dieses Profil ist noch im Aufbau – Feedback und Anregungen willkommen!_
