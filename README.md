@@ -10,9 +10,14 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 | Kategorie        | Technologien                               |
 |------------------|---------------------------------------------|
 | Sprachen         | C / C++, Python, Java, JavaScript / TypeScript, SQL, Dart, PHP              |
-| Web & Frameworks | Webentwicklung mit React, Node.js, Express, Tailwind-CSS,    |
+| Web & Frameworks | React, Node.js, Express, Tailwind-CSS  mit TypeScript / JavaScript  |
+| C / C++ |        |Businessanwendungen mit Qt, 3D-Computergrafik mit Qt-3D, Embedded Programmierung mit Raspberry PICO|
+| Java                 |  Businessanwendungen mit Spring Boot  |
+|  Python |    Machine Learning mit Scikit Learn und Artificial Neural Networks mit Keras und Tensorflow |
+|   PHP        |  Backend-Entwicklung ohne Framework   |
 | Datenbanken      | PostgerSQL - ORM mit Drizzle-ORM (JavaScript / TypeScript), Administration mit pgAdmin                 |
-| Tools & DevOps   | Git, Docker, VS Code, Postman, GitHub, GitLab      |
+| Tools & DevOps   | Git, Docker, Postman; Continuous Integration und Continuous Deployment mit GitLab / GitHub, Software Metrics mit SonarQube  |
+
 
 ---
 
