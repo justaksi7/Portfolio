@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mein Portfolio – Max Mustermann</title>
+<title>Mein Portfolio – Max Mustermann</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
     header { background: #2b2b2b; color: #fff; padding: 20px; text-align: center; }
@@ -66,4 +61,3 @@
   </section>
 
 </body>
-</html>
