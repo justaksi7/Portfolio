@@ -15,7 +15,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 | Java                 |  Businessanwendungen mit Spring Boot  |
 |  Python |    Machine Learning mit Scikit Learn und Artificial Neural Networks mit Keras und Tensorflow |
 |   PHP        |  Backend-Entwicklung ohne Framework   |
-| Datenbanken      | PostgerSQL - ORM mit Drizzle-ORM (JavaScript / TypeScript), Administration mit pgAdmin                 |
+| Datenbanken      | PostgreSQL - ORM mit Drizzle-ORM (JavaScript / TypeScript), Administration mit pgAdmin, Design mit SAP-Power Designer                |
 | Tools & DevOps   | Git, Docker, Postman; Continuous Integration und Continuous Deployment mit GitLab / GitHub, Software Metrics mit SonarQube  |
 |Agile Softwareentwicklung                  | SCRUM mit SCRUM-Boards und Kan-Boards  |
 
@@ -28,15 +28,31 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 ### 📌 [Buchungsverwaltungssystem]
 > Eine Cross-Platform-App zur Buchung und Management von Events mit mehreren Nutzern
 - **Stack:** Flutter (Dart), PostgreSQL
-- **Features:** Responsive Design (UX / UI), Requirements Engineering und Ux / UI-Evaluierung mit echten Nutzern 
+- **Features:** Responsive Design (UX / UI), Requirements Engineering und User Research mit echten Nutzern
+- **Rolle:** Developer in einem SCRUM-Team mit 4 Personen.
+
+---
+### 📊 [Reisebüro Simulation]
+> Eine C++ Desktopanwendung mit Qt
+- **Stack:** C++, gemockte JSON-Datenbank
+- **Features:** Graph-Algorithmen zur Vermeidung von Datumkonflikten
+- **Rolle:** Solo Projekt
+
 
 ---
 
-### 📊 [Wetter-Dashboard](https://github.com/maxmustermann/weather-dashboard)
-> Visualisierung aktueller Wetterdaten über OpenWeatherMap API
-- **Stack:** Python, Flask, Chart.js
-- **Features:** API-Parsing, interaktive Diagramme
+### 📊 [Job-Portal](https://github.com/maxmustermann/weather-dashboard)
+> Eine Job-Portal-Simulation (Frontend fokusiert)
+- **Stack:** React mit JavaScript, TailwindCSS, gemockter JSON-Server
+- **Features:** JSON-Server parsing, Verschiedene React-Hooks, React-Toastify
+- **Rolle:** Solo Projekt
+---
 
+### 📊 [Reiseplanung Webanwendung]
+> Eine Reiseplanung Web-App mit Reisen und Reisezielen
+- **Stack:** NodeJS mit Express Typescript, React mit TailwindCSS Typescript, PostgreSQL
+- **Features:** Backend: Express-Server, PostgreSQL Docker Image, ORM mit DrizzleORM, Validierung mit Zod, Frontend: React, TailwindCSS
+- **Rolle:** Solo Projekt
 ---
 
 
