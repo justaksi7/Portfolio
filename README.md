@@ -51,7 +51,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 ### 📊 [Reiseplanung Webanwendung]
 > Eine Reiseplanung Web-App mit Reisen und Reisezielen
 - **Stack:** NodeJS mit Express Typescript, React mit TailwindCSS Typescript, PostgreSQL
-- **Features:** Backend: Express-Server, PostgreSQL Docker Image, ORM mit DrizzleORM, Validierung mit Zod, Frontend: React, TailwindCSS
+- **Features:** Backend: Express-Server, PostgreSQL Docker Image, ORM und Migrations mit DrizzleORM, Validierung mit Zod, Externe REST-API für die Wettervorhersagen, Frontend: React, TailwindCSS
 - **Rolle:** Solo Projekt
 ---
 
