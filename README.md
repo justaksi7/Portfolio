@@ -69,11 +69,11 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 - **Rolle:** Developer in einem SCRUM-Team mit 4 Personen
 ---
 
-### 📊 [Weiterentwicklung / Bug-Fixes von Einer Java Spring Boot Anwendung]
-> Eine Java-Web-Anwendung mit Spring Boot.
-- **Stack:** Java Spring Boot, Mustache-Wrapping, Apache-Tomahawk-Server, App-interne Hash-Repositories
-- **Features:** Interne Quasi-Datenbank mit Hash-Repositories, Authentifizierung mit Passwort-Validierung, Layouts mit Mustache, CI / CD mit GitLab Pipelines, Unit Tests und Software-Metriken mit SonarQube
-- **Rolle:** Developer in einem SCRUM-Team mit 4 Personen
+### 📊 [Machine Learning Skripts / Programme]
+> Im Rahmen der Vorlesung Einführung in die Künstliche Intelligenz geschriebene Python-Skripts / Anwendungen
+- **Stack:** Python, Scikit Learn, NumPy, MatPlotLib, Pandas
+- **Aufgabe: Classification:** TEST 
+- **Rolle:** Solo Projekte
 ---
 
 ## 📫 Kontakt & Profile
