@@ -82,5 +82,5 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 - ✉️ aksel.kenanov@gmail.com
 
 ---
-> 📌 _Manche Projekte haben keine Repository-Links und oder Screenshots weil sie Hochschul-Intern sind keyword = Datenschutz.
+> 📌 _Manche Projekte haben keine Repository-Links und oder Screenshots weil sie Hochschul-Intern sind keyword = Datenschutz._
 > 📌 _Dieses Profil ist noch im Aufbau – Feedback und Anregungen willkommen!_
