@@ -72,8 +72,15 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 ### 📊 [Machine Learning Skripts / Programme]
 > Im Rahmen der Vorlesung Einführung in die Künstliche Intelligenz geschriebene Python-Skripts / Anwendungen
 - **Stack:** Python, Scikit Learn, NumPy, MatPlotLib, Pandas
-- **Aufgabe: Classification:** TEST 
+- **Classification:** Vorhersage der Personen, die den Titanic-Unfall überlebt haben, mittels Feature Engineering und Classification.
+- **Regression:** Vorhersage der Umsätze von Filmen von The Movie Database mittels Feature Engineering und Regression.
 - **Rolle:** Solo Projekte
+---
+
+### 📊 [Convolutional Neural Networks]
+> Im Rahmen der Vorlesung Einführung in die Künstliche Intelligenz geschriebenes Python-Programm zur Erkennung von Handgeschriebenen Ziffern (MNIST-Dataset) und Generierung neuer solcher Bilder.
+- **Stack:** Python, Scikit Learn, NumPy, MatPlotLib, Pandas, Keras und Tensorflow
+- **Rolle:** Solo Projekt
 ---
 
 ## 📫 Kontakt & Profile
