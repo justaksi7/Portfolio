@@ -75,7 +75,9 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 - **Classification:** Vorhersage der Personen, die den Titanic-Unfall überlebt haben, mittels Feature Engineering und Classification.
 - **Regression:** Vorhersage der Umsätze von Filmen von The Movie Database mittels Feature Engineering und Regression.
 - **Convolutional Neural Networks:** Klassifikation von handgeschriebenen Bildern anhand von CNN mit Keras und Tensorflow.
+- <img src="images/CNN/1.png" alt="Screenshot" width="400"/>
 - **Unsupervised Learning:** KNN-Algorithmus, PCA-Transform für bessere Klassifikation und Generierung Neuer Bilder mit PCA-Inverse-Transform.
+- 
 - **Rolle:** Solo Projekte
 ---
 
