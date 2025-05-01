@@ -46,11 +46,11 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 - **Stack:** React mit JavaScript, TailwindCSS, gemockter JSON-Server
 - **Features:** JSON-Server parsing, Verschiedene React-Hooks, React-Toastify
 - **Rolle:** Solo Projekt
-- <img src="images/React-Jobs/1.png" alt="Screenshot" width="400"/>
-- <img src="images/React-Jobs/2.png" alt="Screenshot" width="400"/>
-- <img src="images/React-Jobs/3.png" alt="Screenshot" width="400"/>
-- <img src="images/React-Jobs/4.png" alt="Screenshot" width="400"/>
-- <img src="images/React-Jobs/5.png" alt="Screenshot" width="400"/>
+- <img src="images/React-Jobs/1.png" alt="Screenshot" width="600"/>
+- <img src="images/React-Jobs/2.png" alt="Screenshot" width="600"/>
+- <img src="images/React-Jobs/3.png" alt="Screenshot" width="600"/>
+- <img src="images/React-Jobs/4.png" alt="Screenshot" width="600"/>
+- <img src="images/React-Jobs/5.png" alt="Screenshot" width="600"/>
 
 ---
 
@@ -81,14 +81,14 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 - **Classification:** Vorhersage der Personen, die den Titanic-Unfall überlebt haben, mittels Feature Engineering und Classification.
 - **Regression:** Vorhersage der Umsätze von Filmen von The Movie Database mittels Feature Engineering und Regression.
 - **Convolutional Neural Networks:** Klassifikation von handgeschriebenen Bildern anhand von CNN mit Keras und Tensorflow.
-- <img src="images/CNN/1.png" alt="Screenshot" width="400"/>
+- <img src="images/CNN/1.png" alt="Screenshot" width="600"/>
 - **Unsupervised Learning:** KNN-Algorithmus, PCA-Transform für bessere Klassifikation und Generierung Neuer Bilder mit PCA-Inverse-Transform.
-- <img src="images/Unsupervised Learning/1.png" alt="Screenshot" width="400"/>
-- <img src="images/Unsupervised Learning/2.png" alt="Screenshot" width="400"/>
-- <img src="images/Unsupervised Learning/3.png" alt="Screenshot" width="400"/>
-- <img src="images/Unsupervised Learning/4.png" alt="Screenshot" width="400"/>
-- <img src="images/Unsupervised Learning/5.png" alt="Screenshot" width="400"/>
-- <img src="images/Unsupervised Learning/6.png" alt="Screenshot" width="400"/>
+- <img src="images/Unsupervised Learning/1.png" alt="Screenshot" width="600"/>
+- <img src="images/Unsupervised Learning/2.png" alt="Screenshot" width="600"/>
+- <img src="images/Unsupervised Learning/3.png" alt="Screenshot" width="600"/>
+- <img src="images/Unsupervised Learning/4.png" alt="Screenshot" width="600"/>
+- <img src="images/Unsupervised Learning/5.png" alt="Screenshot" width="600"/>
+- <img src="images/Unsupervised Learning/6.png" alt="Screenshot" width="600"/>
 - **Rolle:** Solo Projekte
 ---
 
