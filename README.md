@@ -69,7 +69,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 - **Rolle:** Developer in einem SCRUM-Team mit 4 Personen
 ---
 
-### 📊 [Machine Learning Skripts / Programme]
+### 📊 [Machine Learning Skripts / Programme] (https://github.com/justaksi7/EKI)
 > Im Rahmen der Vorlesung Einführung in die Künstliche Intelligenz geschriebene Python-Skripts / Anwendungen
 - **Stack:** Python, Scikit Learn, NumPy, MatPlotLib, Pandas
 - **Classification:** Vorhersage der Personen, die den Titanic-Unfall überlebt haben, mittels Feature Engineering und Classification.
