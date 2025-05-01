@@ -46,6 +46,12 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 - **Stack:** React mit JavaScript, TailwindCSS, gemockter JSON-Server
 - **Features:** JSON-Server parsing, Verschiedene React-Hooks, React-Toastify
 - **Rolle:** Solo Projekt
+- <img src="images/React-Jobs/1.png" alt="Screenshot" width="400"/>
+- <img src="images/React-Jobs/2.png" alt="Screenshot" width="400"/>
+- <img src="images/React-Jobs/3.png" alt="Screenshot" width="400"/>
+- <img src="images/React-Jobs/4.png" alt="Screenshot" width="400"/>
+- <img src="images/React-Jobs/5.png" alt="Screenshot" width="400"/>
+
 ---
 
 ### 📊 [Reiseplanung Webanwendung]
