@@ -77,7 +77,12 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 - **Convolutional Neural Networks:** Klassifikation von handgeschriebenen Bildern anhand von CNN mit Keras und Tensorflow.
 - <img src="images/CNN/1.png" alt="Screenshot" width="400"/>
 - **Unsupervised Learning:** KNN-Algorithmus, PCA-Transform für bessere Klassifikation und Generierung Neuer Bilder mit PCA-Inverse-Transform.
-- 
+- <img src="images/Unsupervised Learning/1.png" alt="Screenshot" width="400"/>
+- <img src="images/Unsupervised Learning/2.png" alt="Screenshot" width="400"/>
+- <img src="images/Unsupervised Learning/3.png" alt="Screenshot" width="400"/>
+- <img src="images/Unsupervised Learning/4.png" alt="Screenshot" width="400"/>
+- <img src="images/Unsupervised Learning/5.png" alt="Screenshot" width="400"/>
+- <img src="images/Unsupervised Learning/6.png" alt="Screenshot" width="400"/>
 - **Rolle:** Solo Projekte
 ---
 
