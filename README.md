@@ -41,7 +41,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 
 ---
 
-### 📊 [Job-Portal](https://github.com/maxmustermann/weather-dashboard)
+### 📊 [Job-Portal]
 > Eine Job-Portal-Simulation (Frontend fokusiert)
 - **Stack:** React mit JavaScript, TailwindCSS, gemockter JSON-Server
 - **Features:** JSON-Server parsing, Verschiedene React-Hooks, React-Toastify
@@ -73,6 +73,11 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 - **Stack:** Java Spring Boot, Mustache-Wrapping, Apache-Tomahawk-Server, App-interne Hash-Repositories
 - **Features:** Interne Quasi-Datenbank mit Hash-Repositories, Authentifizierung mit Passwort-Validierung, Layouts mit Mustache, CI / CD mit GitLab Pipelines, Unit Tests und Software-Metriken mit SonarQube
 - **Rolle:** Developer in einem SCRUM-Team mit 4 Personen
+- <img src="images/Java/1.png" alt="Screenshot" width="600"/>
+- <img src="images/Java/2.png" alt="Screenshot" width="600"/>
+- <img src="images/Java/3.png" alt="Screenshot" width="600"/>
+- <img src="images/Java/4.png" alt="Screenshot" width="600"/>
+- <img src="images/Java/5.png" alt="Screenshot" width="600"/>
 ---
 
 ### 📊 [Machine Learning Skripts / Programme] (https://github.com/justaksi7/EKI)
