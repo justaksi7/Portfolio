@@ -11,7 +11,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 |------------------|---------------------------------------------|
 | Sprachen         | C / C++, Python, Java, JavaScript / TypeScript, SQL, Dart, PHP              |
 | Web & Frameworks | React, Node.js, Express, Tailwind-CSS  mit TypeScript / JavaScript  |
-| C / C++ |        Businessanwendungen mit Qt, 3D-Computergrafik mit Qt-3D, Embedded Programmierung mit Raspberry PICO|
+| C / C++ |        Businessanwendungen mit Qt, 3D-Computergrafik mit Qt-3D, Embedded Programmierung mit Raspberry PICO, Skripts für Multithreading (Semaphore, Mutexte, Threads)|
 | Java                 |  Businessanwendungen mit Spring Boot  |
 |  Python |    Machine Learning mit Scikit Learn und Artificial Neural Networks mit Keras und Tensorflow |
 |   PHP        |  Backend-Entwicklung ohne Framework   |
@@ -74,14 +74,11 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 - **Stack:** Python, Scikit Learn, NumPy, MatPlotLib, Pandas
 - **Classification:** Vorhersage der Personen, die den Titanic-Unfall überlebt haben, mittels Feature Engineering und Classification.
 - **Regression:** Vorhersage der Umsätze von Filmen von The Movie Database mittels Feature Engineering und Regression.
+- **Conolutional Neural Networks:** Klassifikation von handgeschriebenen Bildern anhand von CNN mit Keras und Tensorflow.
+- **Unsupervised Learning:** KNN-Algorithmus, PCA-Transform für bessere Klassifikation und Generierung Neuer Bilder mit PCA-Inverse-Transform.
 - **Rolle:** Solo Projekte
 ---
 
-### 📊 [Convolutional Neural Networks]
-> Im Rahmen der Vorlesung Einführung in die Künstliche Intelligenz geschriebenes Python-Programm zur Erkennung von Handgeschriebenen Ziffern (MNIST-Dataset) und Generierung neuer solcher Bilder.
-- **Stack:** Python, Scikit Learn, NumPy, MatPlotLib, Pandas, Keras und Tensorflow
-- **Rolle:** Solo Projekt
----
 
 ## 📫 Kontakt & Profile
 
