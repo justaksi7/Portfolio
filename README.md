@@ -10,7 +10,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 | Kategorie        | Technologien                               |
 |------------------|---------------------------------------------|
 | Sprachen         | C / C++, Python, Java, JavaScript / TypeScript, SQL, Dart, PHP              |
-| Web & Frameworks | React, Node.js, Express, Tailwind-CSS  mit TypeScript / JavaScript  |
+| Web | React, Node.js, Express, Tailwind-CSS  mit TypeScript / JavaScript  |
 | C / C++ |        Businessanwendungen mit Qt, 3D-Computergrafik mit Qt-3D, Embedded Programmierung mit Raspberry PICO, Skripts für Multithreading (Semaphore, Mutexte, Threads)|
 | Java                 |  Businessanwendungen mit Spring Boot  |
 |  Python |    Machine Learning mit Scikit Learn und Artificial Neural Networks mit Keras und Tensorflow |
