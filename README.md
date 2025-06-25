@@ -11,7 +11,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 |------------------|---------------------------------------------|
 | Sprachen         | C / C++, Python, Java, JavaScript / TypeScript, SQL, Dart, PHP              |
 | Web | React, Node.js, Express, Tailwind-CSS  mit TypeScript / JavaScript  |
-| C / C++ |        Businessanwendungen mit Qt, 3D-Computergrafik mit Qt-3D, Embedded Programmierung mit Raspberry PICO, Skripts für Multithreading (Semaphore, Mutexte, Threads)|
+| C / C++ |        Businessanwendungen mit Qt, 3D-Computergrafik mit Qt-3D, Embedded Programmierung mit Raspberry PICO, Skripts für Multithreading (Semaphore, Mutexe, Threads)|
 | Java                 |  Businessanwendungen mit Spring Boot  |
 |  Python |    Machine Learning mit Scikit Learn und Artificial Neural Networks mit Keras und Tensorflow |
 |   PHP        |  Backend-Entwicklung ohne Framework   |
