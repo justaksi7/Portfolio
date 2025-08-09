@@ -25,6 +25,28 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 
 ## 💼 Projekte
 
+### 📊 [Event Planner Webanwendung]
+> Eine Webanwendung für Event-Planning angelehnt an Calendly. Die Seite war inital online (AWS) aber aufgrund von Kosten wurde sie wieder heruntergenommen!
+- **Stack:** NodeJS mit Express Typescript, React mit Typescript und Shadcn, PostgreSQL, Docker-Registry, AWS
+- **Features:** Backend: Express-Server, PostgreSQL Docker Image, ORM und Migrations mit DrizzleORM, Validierung mit Zod, Frontend: React mit TypeScript und ShadCN-UI, Deployment: Die Anwendung war initial Deployed in AWS aber aufgrund von Kosten wurde sie wieder heruntergenommen.
+- **Rolle:** Developer in einem SCRUM-Team mit 5 Personen.
+
+- <img src="images/fwe-event-planner/1.png" alt="screenshot" width="600">
+- <img src="images/fwe-event-planner/2.png" alt="screenshot" width="600">
+- <img src="images/fwe-event-planner/3.png" alt="screenshot" width="600">
+- <img src="images/fwe-event-planner/4.png" alt="screenshot" width="600">
+- <img src="images/fwe-event-planner/5.png" alt="screenshot" width="600">
+- <img src="images/fwe-event-planner/6.png" alt="screenshot" width="600">
+- **Demo:**
+
+- <video width="600" controls>
+  <source src="images/fwe-event-planner/fwe-event-planner-demo.mp4" type="video/mp4">
+  Dein Browser unterstützt das Video-Tag nicht.
+</video>
+
+
+---
+
 ### 📊 [Buchungsverwaltungssystem]
 > Eine Cross-Platform-App zur Buchung und Management von Events mit mehreren Nutzern
 - **Stack:** Flutter (Dart), PostgreSQL
@@ -59,13 +81,37 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 - **Stack:** NodeJS mit Express Typescript, React mit TailwindCSS Typescript, PostgreSQL
 - **Features:** Backend: Express-Server, PostgreSQL Docker Image, ORM und Migrations mit DrizzleORM, Validierung mit Zod, Externe REST-API für die Wettervorhersagen, Frontend: React, TailwindCSS
 - **Rolle:** Solo Projekt
+- <img src="images/react-travel-agency/1.png" alt="Screenshot" width="600"/>
+- <img src="images/react-travel-agency/2.png" alt="Screenshot" width="600"/>
+- **Demo:**  
+
+- <video width="600" controls>
+  <source src="images/react-travel-agency/react-travel-agency-demo.mp4" type="video/mp4">
+  Dein Browser unterstützt das Video-Tag nicht.
+</video>
+
+
 ---
 
-### 📊 [Übungsseite für Prozess-Scheduling]
-> Eine interaktive React-Anwendung für das Üben von Verschiedenen Scheduling-Algorithmen wie z. B. Banker-Algorithmus
-- **Stack:** React mit TypeScript und TailwindCSS
+### 📊 [Übungsseite für Betriebssysteme]
+> Eine interaktive React-Anwendung für das Üben von verschiedenen Algorithmen aus den Betriebssystemen z.B. Banker-Algorithmus, Scheduler, Deadlock Detection usw. Die Webanwendung wird tatsächlich von der Hochschule Darmstadt deployed damit neue Studenten an der Hochschule für die Vorlesung Betriebssysteme interaktiv lernen können.
+- **Stack:** React mit TypeScript und TailwindCSS und eine echte PostgreSQL-Datenbank für Leaderboard-Rankings.
 - **Features:** Interaktive Durchführung von Scheduling-Algorithmen mit Tokens für die spezifischen Aufgaben
 - **Rolle:** Developer in einem SCRUM-Team mit 5 Personen
+-<img src="images\react-trainer\1.png" alt="screenshot" width="600" >
+-<img src="images\react-trainer\2.png" alt="screenshot" width="600" >
+-<img src="images\react-trainer\3.png" alt="screenshot" width="600" >
+-<img src="images\react-trainer\4.png" alt="screenshot" width="600" >
+-<img src="images\react-trainer\5.png" alt="screenshot" width="600" >
+-<img src="images\react-trainer\6.png" alt="screenshot" width="600" >
+-<img src="images\react-trainer\7.png" alt="screenshot" width="600" >
+
+- **Demo:**  
+
+- <video width="600" controls>
+  <source src="images/react-trainer/react-trainer-demo.mp4" type="video/mp4">
+  Dein Browser unterstützt das Video-Tag nicht.
+</video>
 ---
 
 ### 📊 [Weiterentwicklung / Bug-Fixes von Einer Java Spring Boot Anwendung]
@@ -78,6 +124,9 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 - <img src="images/Java/3.png" alt="Screenshot" width="600"/>
 - <img src="images/Java/4.png" alt="Screenshot" width="600"/>
 - <img src="images/Java/5.png" alt="Screenshot" width="600"/>
+
+
+
 ---
 
 ### 📊 [Machine Learning Skripts / Programme] (https://github.com/justaksi7/EKI)
