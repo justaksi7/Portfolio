@@ -25,7 +25,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 
 ## 💼 Projekte
 
-### 📊 [Event Planner Webanwendung]
+### 📊 [Event Planner Webanwendung] (https://code.fbi.h-da.de/stmifrank/fwe-ss25-event-planner)
 > Eine Webanwendung für Event-Planning angelehnt an Calendly. Die Seite war inital online (AWS) aber aufgrund von Kosten wurde sie wieder heruntergenommen!
 - **Stack:** NodeJS mit Express Typescript, React mit Typescript und Shadcn, PostgreSQL, Docker-Registry, AWS
 - **Features:** Backend: Express-Server, PostgreSQL Docker Image, ORM und Migrations mit DrizzleORM, Validierung mit Zod, Frontend: React mit TypeScript und ShadCN-UI, Deployment: Die Anwendung war initial Deployed in AWS aber aufgrund von Kosten wurde sie wieder heruntergenommen.
@@ -76,7 +76,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 
 ---
 
-### 📊 [Reiseplanung Webanwendung]
+### 📊 [Reiseplanung Webanwendung] (https://code.fbi.h-da.de/aksel.kenanov/fwe-ss-25-1118200)
 > Eine Reiseplanung Web-App mit Reisen, Reisezielen und Wettervorhersagen
 - **Stack:** NodeJS mit Express Typescript, React mit TailwindCSS Typescript, PostgreSQL
 - **Features:** Backend: Express-Server, PostgreSQL Docker Image, ORM und Migrations mit DrizzleORM, Validierung mit Zod, Externe REST-API für die Wettervorhersagen, Frontend: React, TailwindCSS
@@ -93,7 +93,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 
 ---
 
-### 📊 [Übungsseite für Betriebssysteme]
+### 📊 [Übungsseite für Betriebssysteme] (https://code.fbi.h-da.de/azizarrahmen.chihaoui/pse-react)
 > Eine interaktive React-Anwendung für das Üben von verschiedenen Algorithmen aus den Betriebssystemen z.B. Banker-Algorithmus, Scheduler, Deadlock Detection usw. Die Webanwendung wird tatsächlich von der Hochschule Darmstadt deployed damit neue Studenten an der Hochschule für die Vorlesung Betriebssysteme interaktiv lernen können.
 - **Stack:** React mit TypeScript und TailwindCSS und eine echte PostgreSQL-Datenbank für Leaderboard-Rankings.
 - **Features:** Interaktive Durchführung von Scheduling-Algorithmen mit Tokens für die spezifischen Aufgaben
