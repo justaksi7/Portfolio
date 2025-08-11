@@ -118,7 +118,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
   Dein Browser unterstützt das Video-Tag nicht.
 </video>
 
-- [Video Demo](images/react-trainer/react-trainer-demo.mp4" type="video/mp)
+- [Video Demo](images/react-trainer/react-trainer-demo.mp4)
 ---
 
 ### 📊 [Weiterentwicklung / Bug-Fixes von Einer Java Spring Boot Anwendung]
