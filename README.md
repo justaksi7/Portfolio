@@ -44,7 +44,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
   Dein Browser unterstützt das Video-Tag nicht.
 </video>
 
--[Click Here](images/fwe-event-planner/fwe-event-planner-demo.mp4)
+- [Video Demo](images/fwe-event-planner/fwe-event-planner-demo.mp4)
 
 
 ---
@@ -92,6 +92,9 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
   Dein Browser unterstützt das Video-Tag nicht.
 </video>
 
+- [Video Demo](images/react-travel-agency/react-travel-agency-demo.mp4)
+
+
 
 ---
 
@@ -114,6 +117,8 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
   <source src="images/react-trainer/react-trainer-demo.mp4" type="video/mp4">
   Dein Browser unterstützt das Video-Tag nicht.
 </video>
+
+- [Video Demo](images/react-trainer/react-trainer-demo.mp4" type="video/mp)
 ---
 
 ### 📊 [Weiterentwicklung / Bug-Fixes von Einer Java Spring Boot Anwendung]
