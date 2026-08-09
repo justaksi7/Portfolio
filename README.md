@@ -242,7 +242,26 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 
 Developer in einem **SCRUM-Team mit 5 Personen**
 
+### 🖼️ Screenshots
+
+<img src="images/fwe-event-planner/1.png" alt="Event Planner Screenshot 1" width="600">
+
+<img src="images/fwe-event-planner/2.png" alt="Event Planner Screenshot 2" width="600">
+
+<img src="images/fwe-event-planner/3.png" alt="Event Planner Screenshot 3" width="600">
+
+<img src="images/fwe-event-planner/4.png" alt="Event Planner Screenshot 4" width="600">
+
+<img src="images/fwe-event-planner/5.png" alt="Event Planner Screenshot 5" width="600">
+
+<img src="images/fwe-event-planner/6.png" alt="Event Planner Screenshot 6" width="600">
+
 ### 🎥 Demo
+
+<video width="600" controls>
+  <source src="images/fwe-event-planner/fwe-event-planner-demo.mp4" type="video/mp4">
+  Dein Browser unterstützt das Video-Tag nicht.
+</video>
 
 [Video Demo](images/fwe-event-planner/fwe-event-planner-demo.mp4)
 
@@ -314,6 +333,18 @@ Developer in einem **SCRUM-Team mit 4 Personen**
 
 **Solo-Projekt**
 
+### 🖼️ Screenshots
+
+<img src="images/React-Jobs/1.png" alt="Job Portal Screenshot 1" width="600">
+
+<img src="images/React-Jobs/2.png" alt="Job Portal Screenshot 2" width="600">
+
+<img src="images/React-Jobs/3.png" alt="Job Portal Screenshot 3" width="600">
+
+<img src="images/React-Jobs/4.png" alt="Job Portal Screenshot 4" width="600">
+
+<img src="images/React-Jobs/5.png" alt="Job Portal Screenshot 5" width="600">
+
 ⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
 
 ---
@@ -342,7 +373,18 @@ Developer in einem **SCRUM-Team mit 4 Personen**
 
 **Solo-Projekt**
 
+### 🖼️ Screenshots
+
+<img src="images/react-travel-agency/1.png" alt="Travel Agency Screenshot 1" width="600">
+
+<img src="images/react-travel-agency/2.png" alt="Travel Agency Screenshot 2" width="600">
+
 ### 🎥 Demo
+
+<video width="600" controls>
+  <source src="images/react-travel-agency/react-travel-agency-demo.mp4" type="video/mp4">
+  Dein Browser unterstützt das Video-Tag nicht.
+</video>
 
 [Video Demo](images/react-travel-agency/react-travel-agency-demo.mp4)
 
@@ -373,7 +415,28 @@ Developer in einem **SCRUM-Team mit 4 Personen**
 
 Developer in einem **SCRUM-Team mit 5 Personen**
 
+### 🖼️ Screenshots
+
+<img src="images/react-trainer/1.png" alt="Operating Systems Trainer Screenshot 1" width="600">
+
+<img src="images/react-trainer/2.png" alt="Operating Systems Trainer Screenshot 2" width="600">
+
+<img src="images/react-trainer/3.png" alt="Operating Systems Trainer Screenshot 3" width="600">
+
+<img src="images/react-trainer/4.png" alt="Operating Systems Trainer Screenshot 4" width="600">
+
+<img src="images/react-trainer/5.png" alt="Operating Systems Trainer Screenshot 5" width="600">
+
+<img src="images/react-trainer/6.png" alt="Operating Systems Trainer Screenshot 6" width="600">
+
+<img src="images/react-trainer/7.png" alt="Operating Systems Trainer Screenshot 7" width="600">
+
 ### 🎥 Demo
+
+<video width="600" controls>
+  <source src="images/react-trainer/react-trainer-demo.mp4" type="video/mp4">
+  Dein Browser unterstützt das Video-Tag nicht.
+</video>
 
 [Video Demo](images/react-trainer/react-trainer-demo.mp4)
 
@@ -402,6 +465,18 @@ Developer in einem **SCRUM-Team mit 5 Personen**
 
 Developer in einem **SCRUM-Team mit 4 Personen**
 
+### 🖼️ Screenshots
+
+<img src="images/Java/1.png" alt="Java Spring Boot Screenshot 1" width="600">
+
+<img src="images/Java/2.png" alt="Java Spring Boot Screenshot 2" width="600">
+
+<img src="images/Java/3.png" alt="Java Spring Boot Screenshot 3" width="600">
+
+<img src="images/Java/4.png" alt="Java Spring Boot Screenshot 4" width="600">
+
+<img src="images/Java/5.png" alt="Java Spring Boot Screenshot 5" width="600">
+
 ⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
 
 ---
@@ -426,12 +501,30 @@ Vorhersage der Umsätze von Filmen aus **The Movie Database** mittels Feature En
 
 Klassifikation handgeschriebener Bilder anhand von **CNNs** mit Keras und TensorFlow.
 
+### 🖼️ CNN Beispiel
+
+<img src="images/CNN/1.png" alt="Convolutional Neural Network Screenshot" width="600">
+
 ### 🔍 Unsupervised Learning
 
 * KNN-Algorithmus
 * PCA-Transformation
 * Verbesserung der Klassifikation
 * Generierung neuer Bilder mit PCA-Inverse-Transformation
+
+### 🖼️ Unsupervised Learning Beispiele
+
+<img src="images/Unsupervised Learning/1.png" alt="Unsupervised Learning Screenshot 1" width="600">
+
+<img src="images/Unsupervised Learning/2.png" alt="Unsupervised Learning Screenshot 2" width="600">
+
+<img src="images/Unsupervised Learning/3.png" alt="Unsupervised Learning Screenshot 3" width="600">
+
+<img src="images/Unsupervised Learning/4.png" alt="Unsupervised Learning Screenshot 4" width="600">
+
+<img src="images/Unsupervised Learning/5.png" alt="Unsupervised Learning Screenshot 5" width="600">
+
+<img src="images/Unsupervised Learning/6.png" alt="Unsupervised Learning Screenshot 6" width="600">
 
 ### 👨‍💻 Rolle
 
