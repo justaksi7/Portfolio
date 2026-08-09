@@ -2,7 +2,10 @@
 
 Ich bin Informatikstudent im letzten Fachsemester mit Fokus auf Software Engineering insbesondere Webentwicklung und Künstliche Intelligenz insbesondere Machine Learning.  
 Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Technologien zu entdecken.
-
+📑 Inhaltsverzeichnis
+🧰 Technologien & Tools
+💼 Projekte
+📫 Kontakt & Profile
 ---
 ## 🧰 Technologien & Tools
 
