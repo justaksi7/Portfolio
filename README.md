@@ -4,22 +4,46 @@ Ich bin Informatikstudent im letzten Fachsemester mit Fokus auf Software Enginee
 Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Technologien zu entdecken.
 
 ---
-
 ## 🧰 Technologien & Tools
 
-| Kategorie        | Technologien                               |
-|------------------|---------------------------------------------|
-| Sprachen         | C / C++, Python, Java, JavaScript / TypeScript, SQL, Dart, PHP              |
-| Web | React, Node.js, Express, Tailwind-CSS  mit TypeScript / JavaScript  |
-| C / C++ |        Businessanwendungen mit Qt, 3D-Computergrafik mit Qt-3D, Embedded Programmierung mit Raspberry PICO, Skripts für Multithreading (Semaphore, Mutexe, Threads)|
-| Java                 |  Businessanwendungen mit Spring Boot  |
-|  Python |    Machine Learning mit Scikit Learn und Artificial Neural Networks mit Keras und Tensorflow |
-|   PHP        |  Backend-Entwicklung ohne Framework   |
-| Datenbanken      | PostgreSQL - ORM mit Drizzle-ORM (JavaScript / TypeScript), Administration mit pgAdmin, Design mit SAP-Power Designer                |
-| Tools & DevOps   | Git, Docker, Postman; Continuous Integration und Continuous Deployment mit GitLab / GitHub, Software Metrics mit SonarQube  |
-|Agile Softwareentwicklung                  | SCRUM mit SCRUM-Boards und Kan-Boards  |
+### 💻 Programmiersprachen
 
+C / C++ · Python · Java · JavaScript / TypeScript · SQL · Dart · PHP
 
+### 🌐 Web & Application Development
+
+**Frontend:** React · TypeScript · JavaScript · Tailwind CSS
+**Backend:** Node.js · Express · PHP
+**Java:** Spring Boot
+
+### ☁️ Cloud & Software Engineering
+
+AWS · Serverless · Microservices · REST APIs · Event-driven Architecture
+
+### 🗄️ Datenbanken
+
+PostgreSQL · DynamoDB · Drizzle ORM · pgAdmin · SAP PowerDesigner
+
+### 🧪 Testing & Qualitätssicherung
+
+Unit Testing · Integration Testing · API Testing · Performance Testing · Last Testing · Testautomatisierung
+
+### 🔧 DevOps & Development Tools
+
+Git · GitHub · GitLab · Bitbucket · Docker · Postman · SonarQube · CI/CD
+
+### 📊 Observability
+
+OpenTelemetry · AWS X-Ray · CloudWatch · Logging · Metrics · Distributed Tracing
+
+### 🖥️ Weitere Technologien
+
+**C / C++:** Qt · Qt 3D · Embedded Development mit Raspberry Pi Pico · Multithreading
+**Python:** Scikit-learn · Keras · TensorFlow · Machine Learning · Artificial Neural Networks
+
+### 🔄 Agile Softwareentwicklung
+
+Scrum · Scrum Boards · Kanban Boards
 
 ---
 
