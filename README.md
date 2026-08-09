@@ -1,14 +1,32 @@
 # 👋 Hallo, ich bin Aksel Kenanov!
 
-Ich bin Informatikstudent im letzten Fachsemester mit Fokus auf Software Engineering insbesondere Webentwicklung und Künstliche Intelligenz insbesondere Machine Learning.  
-Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Technologien zu entdecken.
+## 📑 Inhaltsverzeichnis
+
+* [🧰 Technologien & Tools](#-technologien--tools)
+
+  * [💻 Programmiersprachen](#-programmiersprachen)
+  * [🌐 Web & Application Development](#-web--application-development)
+  * [☁️ Cloud & Software Engineering](#️-cloud--software-engineering)
+  * [🗄️ Datenbanken](#️-datenbanken)
+  * [🧪 Testing & Qualitätssicherung](#-testing--qualitätssicherung)
+  * [🔧 DevOps & Development Tools](#-devops--development-tools)
+  * [📊 Observability](#-observability)
+  * [🖥️ Weitere Technologien](#️-weitere-technologien)
+  * [🔄 Agile Softwareentwicklung](#-agile-softwareentwicklung)
+* [💼 Projekte](#-projekte)
+
+  * [📊 Event Planner Webanwendung](#-event-planner-webanwendung)
+  * [📊 Buchungsverwaltungssystem](#-buchungsverwaltungssystem)
+  * [📊 Reisebüro Simulation](#-reisebüro-simulation)
+  * [📊 Job-Portal](#-job-portal)
+  * [📊 Reiseplanung Webanwendung](#-reiseplanung-webanwendung)
+  * [📊 Übungsseite für Betriebssysteme](#-übungsseite-für-betriebssysteme)
+  * [📊 Weiterentwicklung / Bug-Fixes von einer Java Spring Boot Anwendung](#-weiterentwicklung--bug-fixes-von-einer-java-spring-boot-anwendung)
+  * [🤖 Einführung in die Künstliche Intelligenz](#-einführung-in-die-künstliche-intelligenz)
+* [📫 Kontakt & Profile](#-kontakt--profile)
+
 ---
-📑 Inhaltsverzeichnis
-🧰 Technologien & Tools
-💼 Projekte
-📫 Kontakt & Profile
----
----
+
 ## 🧰 Technologien & Tools
 
 ### 💻 Programmiersprachen
@@ -44,6 +62,7 @@ OpenTelemetry · AWS X-Ray · CloudWatch · Logging · Metrics · Distributed Tr
 ### 🖥️ Weitere Technologien
 
 **C / C++:** Qt · Qt 3D · Embedded Development mit Raspberry Pi Pico · Multithreading
+
 **Python:** Scikit-learn · Keras · TensorFlow · Machine Learning · Artificial Neural Networks
 
 ### 🔄 Agile Softwareentwicklung
@@ -54,140 +73,120 @@ Scrum · Scrum Boards · Kanban Boards
 
 ## 💼 Projekte
 
-### 📊 [Event Planner Webanwendung] (https://code.fbi.h-da.de/stmifrank/fwe-ss25-event-planner)
-> Eine Webanwendung für Event-Planning angelehnt an Calendly. Die Seite war inital online (AWS) aber aufgrund von Kosten wurde sie wieder heruntergenommen!
-- **Stack:** NodeJS mit Express Typescript, React mit Typescript und Shadcn, PostgreSQL, Docker-Registry, AWS
-- **Features:** Backend: Express-Server, PostgreSQL Docker Image, ORM und Migrations mit DrizzleORM, Validierung mit Zod, Frontend: React mit TypeScript und ShadCN-UI, Deployment: Die Anwendung war initial Deployed in AWS aber aufgrund von Kosten wurde sie wieder heruntergenommen.
-- **Rolle:** Developer in einem SCRUM-Team mit 5 Personen.
+### 📊 Event Planner Webanwendung
 
-- <img src="images/fwe-event-planner/1.png" alt="screenshot" width="600">
-- <img src="images/fwe-event-planner/2.png" alt="screenshot" width="600">
-- <img src="images/fwe-event-planner/3.png" alt="screenshot" width="600">
-- <img src="images/fwe-event-planner/4.png" alt="screenshot" width="600">
-- <img src="images/fwe-event-planner/5.png" alt="screenshot" width="600">
-- <img src="images/fwe-event-planner/6.png" alt="screenshot" width="600">
-- **Demo:**
+[🔗 Repository](https://code.fbi.h-da.de/stmifrank/fwe-ss25-event-planner)
 
-- <video width="600" controls>
-  <source src="images/fwe-event-planner/fwe-event-planner-demo.mp4" type="video/mp4">
-  Dein Browser unterstützt das Video-Tag nicht.
-</video>
+> Eine Webanwendung für Event-Planning, angelehnt an Calendly. Die Seite war initial online (AWS), wurde aber aufgrund von Kosten wieder heruntergenommen.
 
-- [Video Demo](images/fwe-event-planner/fwe-event-planner-demo.mp4)
+* **Stack:** Node.js mit Express und TypeScript, React mit TypeScript und ShadCN, PostgreSQL, Docker Registry, AWS
+* **Features:** Express-Server, PostgreSQL Docker Image, ORM und Migrationen mit Drizzle ORM, Validierung mit Zod, React mit TypeScript und ShadCN-UI
+* **Deployment:** Die Anwendung war initial in AWS deployed, wurde aber aufgrund von Kosten wieder heruntergenommen.
+* **Rolle:** Developer in einem SCRUM-Team mit 5 Personen.
 
+**🎥 Demo:**
+
+[Video Demo](images/fwe-event-planner/fwe-event-planner-demo.mp4)
 
 ---
 
-### 📊 [Buchungsverwaltungssystem]
-> Eine Cross-Platform-App zur Buchung und Management von Events mit mehreren Nutzern
-- **Stack:** Flutter (Dart), PostgreSQL
-- **Features:** Responsive Design (UX / UI), Requirements Engineering und User Research mit echten Nutzern
-- **Rolle:** Developer in einem SCRUM-Team mit 4 Personen.
+### 📊 Buchungsverwaltungssystem
 
----
-### 📊 [Reisebüro Simulation]
-> Eine C++ Desktopanwendung mit Qt
-- **Stack:** C++, gemockte JSON-Datenbank
-- **Features:** Graph-Algorithmen zur Vermeidung von Datumkonflikten
-- **Rolle:** Solo Projekt
+> Eine Cross-Platform-App zur Buchung und Verwaltung von Events mit mehreren Nutzern.
 
+* **Stack:** Flutter (Dart), PostgreSQL
+* **Features:** Responsive Design (UX / UI), Requirements Engineering und User Research mit echten Nutzern
+* **Rolle:** Developer in einem SCRUM-Team mit 4 Personen
 
 ---
 
-### 📊 [Job-Portal]
-> Eine Job-Portal-Simulation (Frontend fokusiert)
-- **Stack:** React mit JavaScript, TailwindCSS, gemockter JSON-Server
-- **Features:** JSON-Server parsing, Verschiedene React-Hooks, React-Toastify
-- **Rolle:** Solo Projekt
-- <img src="images/React-Jobs/1.png" alt="Screenshot" width="600"/>
-- <img src="images/React-Jobs/2.png" alt="Screenshot" width="600"/>
-- <img src="images/React-Jobs/3.png" alt="Screenshot" width="600"/>
-- <img src="images/React-Jobs/4.png" alt="Screenshot" width="600"/>
-- <img src="images/React-Jobs/5.png" alt="Screenshot" width="600"/>
+### 📊 Reisebüro Simulation
+
+> Eine C++ Desktopanwendung mit Qt.
+
+* **Stack:** C++, gemockte JSON-Datenbank
+* **Features:** Graph-Algorithmen zur Vermeidung von Datumkonflikten
+* **Rolle:** Solo-Projekt
 
 ---
 
-### 📊 [Reiseplanung Webanwendung] (https://code.fbi.h-da.de/aksel.kenanov/fwe-ss-25-1118200)
-> Eine Reiseplanung Web-App mit Reisen, Reisezielen und Wettervorhersagen
-- **Stack:** NodeJS mit Express Typescript, React mit TailwindCSS Typescript, PostgreSQL
-- **Features:** Backend: Express-Server, PostgreSQL Docker Image, ORM und Migrations mit DrizzleORM, Validierung mit Zod, Externe REST-API für die Wettervorhersagen, Frontend: React, TailwindCSS
-- **Rolle:** Solo Projekt
-- <img src="images/react-travel-agency/1.png" alt="Screenshot" width="600"/>
-- <img src="images/react-travel-agency/2.png" alt="Screenshot" width="600"/>
-- **Demo:**  
+### 📊 Job-Portal
 
-- <video width="600" controls>
-  <source src="images/react-travel-agency/react-travel-agency-demo.mp4" type="video/mp4">
-  Dein Browser unterstützt das Video-Tag nicht.
-</video>
+> Eine Job-Portal-Simulation mit Fokus auf das Frontend.
 
-- [Video Demo](images/react-travel-agency/react-travel-agency-demo.mp4)
-
-
+* **Stack:** React mit JavaScript, Tailwind CSS, gemockter JSON-Server
+* **Features:** JSON-Server Parsing, verschiedene React Hooks, React-Toastify
+* **Rolle:** Solo-Projekt
 
 ---
 
-### 📊 [Übungsseite für Betriebssysteme] (https://code.fbi.h-da.de/azizarrahmen.chihaoui/pse-react)
-> Eine interaktive React-Anwendung für das Üben von verschiedenen Algorithmen aus den Betriebssystemen z.B. Banker-Algorithmus, Scheduler, Deadlock Detection usw. Die Webanwendung wird tatsächlich von der Hochschule Darmstadt deployed damit neue Studenten an der Hochschule für die Vorlesung Betriebssysteme interaktiv lernen können.
-- **Stack:** React mit TypeScript und TailwindCSS und eine echte PostgreSQL-Datenbank für Leaderboard-Rankings.
-- **Features:** Interaktive Durchführung von Scheduling-Algorithmen mit Tokens für die spezifischen Aufgaben
-- **Rolle:** Developer in einem SCRUM-Team mit 5 Personen
--<img src="images\react-trainer\1.png" alt="screenshot" width="600" >
--<img src="images\react-trainer\2.png" alt="screenshot" width="600" >
--<img src="images\react-trainer\3.png" alt="screenshot" width="600" >
--<img src="images\react-trainer\4.png" alt="screenshot" width="600" >
--<img src="images\react-trainer\5.png" alt="screenshot" width="600" >
--<img src="images\react-trainer\6.png" alt="screenshot" width="600" >
--<img src="images\react-trainer\7.png" alt="screenshot" width="600" >
+### 📊 Reiseplanung Webanwendung
 
-- **Demo:**  
+[🔗 Repository](https://code.fbi.h-da.de/aksel.kenanov/fwe-ss-25-1118200)
 
-- <video width="600" controls>
-  <source src="images/react-trainer/react-trainer-demo.mp4" type="video/mp4">
-  Dein Browser unterstützt das Video-Tag nicht.
-</video>
+> Eine Reiseplanungs-Web-App mit Reisen, Reisezielen und Wettervorhersagen.
 
-- [Video Demo](images/react-trainer/react-trainer-demo.mp4)
+* **Stack:** Node.js mit Express und TypeScript, React mit TypeScript und Tailwind CSS, PostgreSQL
+* **Features:** Express-Server, PostgreSQL Docker Image, ORM und Migrationen mit Drizzle ORM, Validierung mit Zod, externe REST-API für Wettervorhersagen, React Frontend mit Tailwind CSS
+* **Rolle:** Solo-Projekt
+
+**🎥 Demo:**
+
+[Video Demo](images/react-travel-agency/react-travel-agency-demo.mp4)
+
 ---
 
-### 📊 [Weiterentwicklung / Bug-Fixes von Einer Java Spring Boot Anwendung]
+### 📊 Übungsseite für Betriebssysteme
+
+[🔗 Repository](https://code.fbi.h-da.de/azizarrahmen.chihaoui/pse-react)
+
+> Eine interaktive React-Anwendung zum Üben verschiedener Algorithmen aus dem Bereich Betriebssysteme, z. B. Banker-Algorithmus, Scheduling und Deadlock Detection. Die Webanwendung wird tatsächlich von der Hochschule Darmstadt deployed, damit neue Studierende interaktiv für die Vorlesung Betriebssysteme lernen können.
+
+* **Stack:** React mit TypeScript und Tailwind CSS, PostgreSQL-Datenbank für Leaderboard-Rankings
+* **Features:** Interaktive Durchführung von Scheduling-Algorithmen mit Tokens für die jeweiligen Aufgaben
+* **Rolle:** Developer in einem SCRUM-Team mit 5 Personen
+
+**🎥 Demo:**
+
+[Video Demo](images/react-trainer/react-trainer-demo.mp4)
+
+---
+
+### 📊 Weiterentwicklung / Bug-Fixes von einer Java Spring Boot Anwendung
+
 > Eine Java-Web-Anwendung mit Spring Boot.
-- **Stack:** Java Spring Boot, Mustache-Wrapping, Apache-Tomahawk-Server, App-interne Hash-Repositories
-- **Features:** Interne Quasi-Datenbank mit Hash-Repositories, Authentifizierung mit Passwort-Validierung, Layouts mit Mustache, CI / CD mit GitLab Pipelines, Unit Tests und Software-Metriken mit SonarQube
-- **Rolle:** Developer in einem SCRUM-Team mit 4 Personen
-- <img src="images/Java/1.png" alt="Screenshot" width="600"/>
-- <img src="images/Java/2.png" alt="Screenshot" width="600"/>
-- <img src="images/Java/3.png" alt="Screenshot" width="600"/>
-- <img src="images/Java/4.png" alt="Screenshot" width="600"/>
-- <img src="images/Java/5.png" alt="Screenshot" width="600"/>
 
-
+* **Stack:** Java Spring Boot, Mustache, Apache Tomcat Server, App-interne Hash-Repositories
+* **Features:** Interne Quasi-Datenbank mit Hash-Repositories, Authentifizierung mit Passwort-Validierung, Layouts mit Mustache, CI/CD mit GitLab Pipelines, Unit Tests und Software-Metriken mit SonarQube
+* **Rolle:** Developer in einem SCRUM-Team mit 4 Personen
 
 ---
 
-### 📊 [Machine Learning Skripts / Programme] (https://github.com/justaksi7/EKI)
-> Im Rahmen der Vorlesung Einführung in die Künstliche Intelligenz geschriebene Python-Skripts / Anwendungen
-- **Stack:** Python, Scikit Learn, NumPy, MatPlotLib, Pandas
-- **Classification:** Vorhersage der Personen, die den Titanic-Unfall überlebt haben, mittels Feature Engineering und Classification.
-- **Regression:** Vorhersage der Umsätze von Filmen von The Movie Database mittels Feature Engineering und Regression.
-- **Convolutional Neural Networks:** Klassifikation von handgeschriebenen Bildern anhand von CNN mit Keras und Tensorflow.
-- <img src="images/CNN/1.png" alt="Screenshot" width="600"/>
-- **Unsupervised Learning:** KNN-Algorithmus, PCA-Transform für bessere Klassifikation und Generierung Neuer Bilder mit PCA-Inverse-Transform.
-- <img src="images/Unsupervised Learning/1.png" alt="Screenshot" width="600"/>
-- <img src="images/Unsupervised Learning/2.png" alt="Screenshot" width="600"/>
-- <img src="images/Unsupervised Learning/3.png" alt="Screenshot" width="600"/>
-- <img src="images/Unsupervised Learning/4.png" alt="Screenshot" width="600"/>
-- <img src="images/Unsupervised Learning/5.png" alt="Screenshot" width="600"/>
-- <img src="images/Unsupervised Learning/6.png" alt="Screenshot" width="600"/>
-- **Rolle:** Solo Projekte
----
+### 🤖 Einführung in die Künstliche Intelligenz
 
+> Im Rahmen der Vorlesung „Einführung in die Künstliche Intelligenz“ entwickelte Python-Skripte und Anwendungen.
+
+* **Stack:** Python, Scikit-learn, NumPy, Matplotlib, Pandas
+
+* **Classification:** Vorhersage der Personen, die den Titanic-Unfall überlebt haben, mittels Feature Engineering und Classification.
+
+* **Regression:** Vorhersage der Umsätze von Filmen aus The Movie Database mittels Feature Engineering und Regression.
+
+* **Convolutional Neural Networks:** Klassifikation handgeschriebener Bilder anhand von CNNs mit Keras und TensorFlow.
+
+* **Unsupervised Learning:** KNN-Algorithmus, PCA-Transformation zur Verbesserung der Klassifikation und Generierung neuer Bilder mit PCA-Inverse-Transformation.
+
+* **Rolle:** Solo-Projekte
+
+---
 
 ## 📫 Kontakt & Profile
 
-- 🧑‍💻 [GitHub](https://github.com/justaksi7)
-- ✉️ aksel.kenanov@gmail.com
+* 🧑‍💻 [GitHub](https://github.com/justaksi7)
+* ✉️ [E-Mail](mailto:aksel.kenanov@gmail.com)
 
 ---
-> 📌 _Manche Projekte haben keine Repository-Links und oder Screenshots weil sie Hochschul-Intern sind keyword = Datenschutz._
-> 📌 _Dieses Profil ist noch im Aufbau – Feedback und Anregungen willkommen!_
+
+> 📌 *Manche Projekte haben keine Repository-Links oder Screenshots, da sie hochschulintern sind (Datenschutz).*
+>
+> 📌 *Dieses Profil ist noch im Aufbau – Feedback und Anregungen willkommen!*
