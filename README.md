@@ -96,6 +96,7 @@ Cloud Solution Architect im Rahmen der Praxisphase.
 ### 🖼️ Screenshots
 
 <img src="images/praxisphase/architecture-diagram.png" alt="Praxisphase Screenshot" width="600">
+
 ⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
 
 ---
