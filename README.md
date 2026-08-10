@@ -38,7 +38,75 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 * [📫 Kontakt & Profile](#-kontakt--profile)
 
 ---
+---
 
+# 🏢 Praxisphase
+
+## 🏗️ Resiliente Serverless-Architektur mit AWS
+
+> Im Rahmen meiner Praxisphase im Bereich Software Engineering wurde eine resiliente, event-driven Microservice-Architektur für die Verarbeitung von Payments entwickelt. Der Schwerpunkt lag auf Ausfallsicherheit, zuverlässiger Nachrichtenverarbeitung und Observability.
+
+### 🛠️ Technologien & Tools
+
+**AWS** · **AWS Lambda** · **Amazon SQS** · **Amazon RDS** · **Amazon DynamoDB** · **AWS X-Ray** · **Amazon CloudWatch** · **OpenTelemetry** · **Node.js** · **TypeScript** · **REST APIs** · **Microservices**
+
+### 🏛️ Architektur
+
+- Serverless Microservice-Architektur
+- Event-driven Architecture
+- REST APIs
+- Asynchrone Kommunikation über **Amazon SQS**
+- Persistierung mit **Amazon RDS**
+- Outbox Pattern
+- Worker-basierte Verarbeitung
+- Integration mit SAP
+- Webhook-basierte Statusaktualisierung
+
+### 🛡️ Resilienz & Fehlertoleranz
+
+- Retry-Mechanismen mit **Exponential Backoff**
+- **Dead Letter Queues (DLQ)**
+- Circuit Breaker Pattern
+- Half-Open-Phase für kontrollierte Wiederherstellung
+- Schutz vor mehrfacher Verarbeitung von Payments
+- Zuverlässige und fehlertolerante Nachrichtenverarbeitung
+- Zustandsbasierte Verarbeitung von Payments
+
+### 📊 Observability
+
+- **OpenTelemetry**
+- **AWS X-Ray**
+- **Amazon CloudWatch**
+- Distributed Tracing
+- Correlation IDs
+- Logging
+- Metrics
+- Monitoring
+- Queue- und DLQ-Monitoring
+
+### 🧪 Performance & Evaluation
+
+- Last- und Performance-Tests
+- Analyse der Lambda-Ausführungszeiten
+- Analyse des Memory-Verbrauchs
+- Untersuchung des Overheads durch OpenTelemetry / ADOT
+- Analyse von AWS-X-Ray-Traces
+- Tests mit mehreren tausend Requests
+- Evaluation von DynamoDB- und Lambda-Performance
+
+### 👨‍💻 Rolle
+
+Software Engineering Praktikant / Developer im Rahmen der Praxisphase.
+
+### 🔗 Repository
+
+[Repository](REPOSITORY_URL_PRAxisPHASE_HIER_EINFÜGEN)
+
+> 📌 *Das Repository bzw. Teile des Projekts können aufgrund von Datenschutz, Unternehmensrichtlinien oder Hochschulvorgaben nicht öffentlich zugänglich sein.*
+
+⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+
+---
 # 🧰 Technologien & Tools
 
 ## 💻 Programmiersprachen
@@ -529,14 +597,8 @@ Klassifikation handgeschriebener Bilder anhand von **CNNs** mit Keras und Tensor
 ### 👨‍💻 Rolle
 
 **Solo-Projekte**
-## 🏢 SAP Payments Bridge (Praxisphase)
-## 🎓 Bachelorarbeit
 ⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
 
----
----
-## 🏢 SAP Payments Bridge (Praxisphase)
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
 ---
 ---
 ## 🎓 Bachelorarbeit
