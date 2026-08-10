@@ -7,8 +7,10 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 ---
 
 ## 📑 Inhaltsverzeichnis
-### 🏢 Praxisphase im Betrieb
+### 🏢 Praxisphase SAP Payments Bridge
 * [🏢 Praxisphase](#-praxisphase)
+### Bachelorarbeit – Evaluation des OpenTelemetry-Overheads in AWS Lambda
+* [🎓 Bachelorarbeit](#-bachelorarbeit)
 ### 🧰 Technologien & Tools
 
 * [💻 Programmiersprachen](#-programmiersprachen)
@@ -43,7 +45,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 
 # 🏢 Praxisphase
 
-## 🏗️ Resiliente Serverless-Architektur mit AWS
+## 🏗️ SAP Payments Bridge
 
 > Im Rahmen meiner Praxisphase wurde eine resiliente, event-driven Microservice-Architektur für die Verarbeitung von SAP-Payments entwickelt. Der Schwerpunkt lag auf Ausfallsicherheit, zuverlässiger Nachrichtenverarbeitung und Observability.
 
