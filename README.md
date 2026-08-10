@@ -9,7 +9,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 ## 📑 Inhaltsverzeichnis
 ### 🏢 Praxisphase SAP Payments Bridge
 * [🏢 Praxisphase](#-praxisphase)
-### Bachelorarbeit – Evaluation des OpenTelemetry-Overheads in AWS Lambda
+### 🎓 Bachelorarbeit – Evaluation des OpenTelemetry-Overheads in AWS Lambda
 * [🎓 Bachelorarbeit](#-bachelorarbeit)
 ### 🧰 Technologien & Tools
 
@@ -135,17 +135,14 @@ Für die Evaluation wurden fünf verschiedene Zugriffsszenarien untersucht:
 * **Lambda-to-Lambda Invocation**
 
   * Asynchroner Aufruf einer zweiten Lambda-Funktion
-  * Untersuchung der Tracing- und Context-Propagation-Kosten
 
 * **HTTP GET Request**
 
   * Ausgehende HTTP-Kommunikation
-  * Untersuchung von Client-Spans und Header-/Context-Propagation
 
 * **HTTP POST Request**
 
   * Ausgehende HTTP-Kommunikation mit Request-Body
-  * Untersuchung von Request-/Response-Tracing und zusätzlicher Instrumentierung
 
 * **DynamoDB Read**
 
@@ -171,24 +168,6 @@ Die Messungen wurden zwischen dem **02.03.2026 und 07.03.2026** durchgeführt.
 ### 📈 Ergebnisse
 
 Die Evaluation zeigt deutliche Unterschiede zwischen den Programmiersprachen und den verschiedenen Ausführungsszenarien.
-
-Bei **Kaltstarts** zeigte sich insbesondere ein deutlicher zusätzlicher Initialisierungsaufwand durch die Instrumentierung. Beispielsweise lag der gemessene Init-Duration-Overhead bei den HTTP-POST-Benchmarks bei **284,51 % für Java**, **805,21 % für Node.js** und **495,87 % für Python**.
-
-Bei **Warmstarts** fällt der Overhead deutlich geringer aus. Beim Lambda-to-Lambda-Benchmark lag der zusätzliche Duration-Overhead beispielsweise bei **11,80 % für Java**, **19,30 % für Node.js** und **14,13 % für Python**.
-
-Auch beim **Memory-Verbrauch** konnte ein zusätzlicher Ressourcenbedarf der instrumentierten Funktionen beobachtet werden. Die Höhe des Overheads hängt dabei vom verwendeten Benchmark und der jeweiligen Programmiersprache ab.
-
-### 🗂️ Repository-Struktur
-
-Das Repository enthält unter anderem:
-
-* `aws-lambda-functions/` – Lambda-Implementierungen für Java, Node.js und Python
-* `aws-http-server/` – HTTP-Testserver für GET- und POST-Benchmarks
-* `cloudwatch-logs/` – exportierte Rohdaten und Auswertungsskripte
-* `dynamo-db/` – Dokumentation der DynamoDB-Struktur
-* `lambda-invocation-script/` – Skript für die Lambda-Invocation-Tests
-* `results/` – aufbereitete Ergebnisse und Visualisierungen
-* `gfx/` – Grafiken für die Dokumentation
 
 ### 👨‍🎓 Rolle
 
