@@ -44,11 +44,11 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 
 ## 🏗️ Resiliente Serverless-Architektur mit AWS
 
-> Im Rahmen meiner Praxisphase im Bereich Software Engineering wurde eine resiliente, event-driven Microservice-Architektur für die Verarbeitung von Payments entwickelt. Der Schwerpunkt lag auf Ausfallsicherheit, zuverlässiger Nachrichtenverarbeitung und Observability.
+> Im Rahmen meiner Praxisphase wurde eine resiliente, event-driven Microservice-Architektur für die Verarbeitung von SAP-Payments entwickelt. Der Schwerpunkt lag auf Ausfallsicherheit, zuverlässiger Nachrichtenverarbeitung und Observability.
 
 ### 🛠️ Technologien & Tools
 
-**AWS** · **AWS Lambda** · **Amazon SQS** · **Amazon RDS** · **Amazon DynamoDB** · **AWS X-Ray** · **Amazon CloudWatch** · **OpenTelemetry** · **Node.js** · **TypeScript** · **REST APIs** · **Microservices**
+**AWS** · **AWS Lambda** · **Amazon SQS** · **Amazon RDS** · **Amazon DynamoDB** · **AWS X-Ray** · **Amazon CloudWatch** · **OpenTelemetry** · **REST APIs** · **Microservices**
 
 ### 🏛️ Architektur
 
@@ -84,25 +84,13 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 - Monitoring
 - Queue- und DLQ-Monitoring
 
-### 🧪 Performance & Evaluation
-
-- Last- und Performance-Tests
-- Analyse der Lambda-Ausführungszeiten
-- Analyse des Memory-Verbrauchs
-- Untersuchung des Overheads durch OpenTelemetry / ADOT
-- Analyse von AWS-X-Ray-Traces
-- Tests mit mehreren tausend Requests
-- Evaluation von DynamoDB- und Lambda-Performance
-
 ### 👨‍💻 Rolle
 
-Software Engineering Praktikant / Developer im Rahmen der Praxisphase.
+Cloud Solution Architect im Rahmen der Praxisphase.
 
 ### 🔗 Repository
 
-[Repository](REPOSITORY_URL_PRAxisPHASE_HIER_EINFÜGEN)
-
-> 📌 *Das Repository bzw. Teile des Projekts können aufgrund von Datenschutz, Unternehmensrichtlinien oder Hochschulvorgaben nicht öffentlich zugänglich sein.*
+[Repository](https://github.com/justaksi7/b2b-sap-payment-bridge)
 
 ⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
 
