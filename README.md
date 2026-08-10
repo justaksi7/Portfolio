@@ -100,6 +100,101 @@ Cloud Solution Architect im Rahmen der Praxisphase.
 ⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
 
 ---
+---
+# 🎓 Bachelorarbeit
+
+## 📊 Evaluation des OpenTelemetry-Overheads in AWS Lambda
+
+> Im Rahmen meiner Bachelorarbeit wurde der Performance- und Ressourcen-Overhead durch OpenTelemetry-Instrumentierung in AWS-Lambda-Workloads untersucht. Dabei wurden Lambda-Funktionen in **Java, Node.js und Python** sowohl ohne Instrumentierung als auch mit OpenTelemetry ausgeführt und miteinander verglichen.
+
+### 🔗 Repository
+
+[📂 GitHub Repository](https://github.com/justaksi7/opentelemetry-overhead-java-nodejs-python)
+
+### 🛠️ Technologien & Tools
+
+**AWS Lambda** · **Java** · **Node.js** · **Python** · **OpenTelemetry** · **Amazon DynamoDB** · **AWS CloudWatch** · **HTTP** · **GitHub**
+
+### 🎯 Zielsetzung
+
+Untersuchung der Auswirkungen von OpenTelemetry-Instrumentierung auf die Performance und den Ressourcenverbrauch serverloser Anwendungen.
+
+Verglichen wurden:
+
+* Nicht instrumentierte Lambda-Funktionen (**Baseline**)
+* Mit OpenTelemetry instrumentierte Lambda-Funktionen
+* Drei Programmiersprachen: **Java, Node.js und Python**
+* **Kaltstarts und Warmstarts**
+
+### 🧪 Microbenchmarks
+
+Für die Evaluation wurden fünf verschiedene Zugriffsszenarien untersucht:
+
+* **Lambda-to-Lambda Invocation**
+
+  * Asynchroner Aufruf einer zweiten Lambda-Funktion
+  * Untersuchung der Tracing- und Context-Propagation-Kosten
+
+* **HTTP GET Request**
+
+  * Ausgehende HTTP-Kommunikation
+  * Untersuchung von Client-Spans und Header-/Context-Propagation
+
+* **HTTP POST Request**
+
+  * Ausgehende HTTP-Kommunikation mit Request-Body
+  * Untersuchung von Request-/Response-Tracing und zusätzlicher Instrumentierung
+
+* **DynamoDB Read**
+
+  * Lesen eines einzelnen Datensatzes aus Amazon DynamoDB
+
+* **DynamoDB Write**
+
+  * Schreiben eines einzelnen Datensatzes in Amazon DynamoDB
+
+Damit werden Lambda-Aufrufe, HTTP-Kommunikation sowie Datenbankzugriffe innerhalb einer AWS-Umgebung abgedeckt.
+
+### 📏 Gemessene Metriken
+
+* **Duration**
+* **Init Duration**
+* **Max Memory Used**
+* Relativer OpenTelemetry-Overhead in Prozent
+* Absolute Messwerte
+* Vergleich von Kalt- und Warmstarts
+
+Die Messungen wurden zwischen dem **02.03.2026 und 07.03.2026** durchgeführt.
+
+### 📈 Ergebnisse
+
+Die Evaluation zeigt deutliche Unterschiede zwischen den Programmiersprachen und den verschiedenen Ausführungsszenarien.
+
+Bei **Kaltstarts** zeigte sich insbesondere ein deutlicher zusätzlicher Initialisierungsaufwand durch die Instrumentierung. Beispielsweise lag der gemessene Init-Duration-Overhead bei den HTTP-POST-Benchmarks bei **284,51 % für Java**, **805,21 % für Node.js** und **495,87 % für Python**.
+
+Bei **Warmstarts** fällt der Overhead deutlich geringer aus. Beim Lambda-to-Lambda-Benchmark lag der zusätzliche Duration-Overhead beispielsweise bei **11,80 % für Java**, **19,30 % für Node.js** und **14,13 % für Python**.
+
+Auch beim **Memory-Verbrauch** konnte ein zusätzlicher Ressourcenbedarf der instrumentierten Funktionen beobachtet werden. Die Höhe des Overheads hängt dabei vom verwendeten Benchmark und der jeweiligen Programmiersprache ab.
+
+### 🗂️ Repository-Struktur
+
+Das Repository enthält unter anderem:
+
+* `aws-lambda-functions/` – Lambda-Implementierungen für Java, Node.js und Python
+* `aws-http-server/` – HTTP-Testserver für GET- und POST-Benchmarks
+* `cloudwatch-logs/` – exportierte Rohdaten und Auswertungsskripte
+* `dynamo-db/` – Dokumentation der DynamoDB-Struktur
+* `lambda-invocation-script/` – Skript für die Lambda-Invocation-Tests
+* `results/` – aufbereitete Ergebnisse und Visualisierungen
+* `gfx/` – Grafiken für die Dokumentation
+
+### 👨‍🎓 Rolle
+
+**Autor und Entwickler der Bachelorarbeit**
+
+⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+---
+
 # 🧰 Technologien & Tools
 
 ## 💻 Programmiersprachen
