@@ -529,7 +529,8 @@ Klassifikation handgeschriebener Bilder anhand von **CNNs** mit Keras und Tensor
 ### 👨‍💻 Rolle
 
 **Solo-Projekte**
-
+## 🏢 SAP Payments Bridge (Praxisphase)
+## 🎓 Bachelorarbeit
 ⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
 
 ---
