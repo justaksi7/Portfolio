@@ -12,10 +12,9 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 ### 🎓 Bachelorarbeit – Evaluation des OpenTelemetry-Overheads in AWS Lambda
 * [🎓 Bachelorarbeit](#-bachelorarbeit)
 
-<details>
-<summary>
 ### 🧰 Technologien & Tools
-</summary>
+<details>
+<summary></summary>
 
 * [💻 Programmiersprachen](#-programmiersprachen)
 * [🌐 Web & Application Development](#-web--application-development)
