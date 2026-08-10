@@ -46,6 +46,10 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 
 > Im Rahmen meiner Praxisphase wurde eine resiliente, event-driven Microservice-Architektur für die Verarbeitung von SAP-Payments entwickelt. Der Schwerpunkt lag auf Ausfallsicherheit, zuverlässiger Nachrichtenverarbeitung und Observability.
 
+### 🔗 Repository
+
+[Repository](https://github.com/justaksi7/b2b-sap-payment-bridge)
+
 ### 🛠️ Technologien & Tools
 
 **AWS** · **AWS Lambda** · **Amazon SQS** · **Amazon RDS** · **Amazon DynamoDB** · **AWS X-Ray** · **Amazon CloudWatch** · **OpenTelemetry** · **REST APIs** · **Microservices**
@@ -88,10 +92,9 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 
 Cloud Solution Architect im Rahmen der Praxisphase.
 
-### 🔗 Repository
+### 🖼️ Screenshots
 
-[Repository](https://github.com/justaksi7/b2b-sap-payment-bridge)
-
+<img src="images/praxisphase/architecture-diagram" alt="Praxisphase Screenshot" width="600">
 ⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
 
 ---
