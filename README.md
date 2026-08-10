@@ -173,7 +173,9 @@ Die Evaluation zeigt deutliche Unterschiede zwischen den Programmiersprachen und
 
 **Autor und Entwickler der Bachelorarbeit**
 
+
 ⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+
 
 ---
 
