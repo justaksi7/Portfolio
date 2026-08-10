@@ -534,7 +534,14 @@ Klassifikation handgeschriebener Bilder anhand von **CNNs** mit Keras und Tensor
 ⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
 
 ---
-
+---
+## 🏢 SAP Payments Bridge (Praxisphase)
+⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+---
+---
+## 🎓 Bachelorarbeit
+⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+---
 # 📫 Kontakt & Profile
 
 * 🧑‍💻 [GitHub](https://github.com/justaksi7)
