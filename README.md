@@ -167,7 +167,7 @@ Die Messungen wurden zwischen dem **02.03.2026 und 07.03.2026** durchgeführt.
 
 ### 📈 Ergebnisse
 
-Die Evaluation zeigt deutliche Unterschiede zwischen den Programmiersprachen und den verschiedenen Ausführungsszenarien.
+Die Evaluation zeigt deutliche Unterschiede zwischen den Programmiersprachen und den verschiedenen Ausführungsszenarien. Die detaillierten Ergebnisse liegen im [📂 GitHub Repository](https://github.com/justaksi7/opentelemetry-overhead-java-nodejs-python).
 
 ### 👨‍🎓 Rolle
 
