@@ -13,8 +13,6 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 * [🎓 Bachelorarbeit](#-bachelorarbeit)
 
 ### 🧰 Technologien & Tools
-<details>
-<summary></summary>
 
 * [💻 Programmiersprachen](#-programmiersprachen)
 * [🌐 Web & Application Development](#-web--application-development)
@@ -27,7 +25,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 * [🧪 Testing & Qualitätssicherung](#-testing--qualitätssicherung)
 * [📊 Observability](#-observability)
 * [🔄 Agile Softwareentwicklung](#-agile-softwareentwicklung)
-</details>
+
 
 ### 💼 Projekte
 
