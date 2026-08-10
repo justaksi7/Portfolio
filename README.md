@@ -7,7 +7,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 ---
 
 ## 📑 Inhaltsverzeichnis
-### 🏢 Praxisphasee
+### 🏢 Praxisphase im Betrieb
 * [🏢 Praxisphase](#-praxisphase)
 ### 🧰 Technologien & Tools
 
