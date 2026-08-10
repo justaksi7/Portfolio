@@ -11,7 +11,9 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 * [🏢 Praxisphase](#-praxisphase)
 ### 🎓 Bachelorarbeit – Evaluation des OpenTelemetry-Overheads in AWS Lambda
 * [🎓 Bachelorarbeit](#-bachelorarbeit)
-### 🧰 Technologien & Tools
+
+<details>
+<summary>### 🧰 Technologien & Tools</summary>
 
 * [💻 Programmiersprachen](#-programmiersprachen)
 * [🌐 Web & Application Development](#-web--application-development)
@@ -24,7 +26,7 @@ Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Te
 * [🧪 Testing & Qualitätssicherung](#-testing--qualitätssicherung)
 * [📊 Observability](#-observability)
 * [🔄 Agile Softwareentwicklung](#-agile-softwareentwicklung)
-
+</details>
 ### 💼 Projekte
 
 * [📊 Event Planner Webanwendung](#-event-planner-webanwendung)
