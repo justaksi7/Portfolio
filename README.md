@@ -493,7 +493,7 @@ Developer in einem **SCRUM-Team mit 4 Personen**
 
 ## 🌍 Reiseplanung Webanwendung
 
-[🔗 Repository](https://code.fbi.h-da.de/aksel.kenanov/fwe-ss-25-1118200)
+[🔗 Repository](https://github.com/justaksi7/fwe-ss-25-1118200)
 
 > Eine Reiseplanungs-Web-App mit Reisen, Reisezielen und Wettervorhersagen.
 
@@ -536,7 +536,7 @@ Developer in einem **SCRUM-Team mit 4 Personen**
 
 ## 🖥️ Übungsseite für Betriebssysteme
 
-[🔗 Repository](https://code.fbi.h-da.de/azizarrahmen.chihaoui/pse-react)
+[🔗 Repository](https://github.com/justaksi7/pse-react)
 
 > Eine interaktive React-Anwendung zum Üben verschiedener Algorithmen aus dem Bereich Betriebssysteme, z. B. Banker-Algorithmus, Scheduler und Deadlock Detection. Die Webanwendung wird tatsächlich von der Hochschule Darmstadt deployed, damit neue Studierende interaktiv für die Vorlesung Betriebssysteme lernen können.
 
