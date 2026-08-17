@@ -362,7 +362,7 @@ Die Evaluation zeigt deutliche Unterschiede zwischen den Programmiersprachen und
 
 ## 📊 Event Planner Webanwendung
 
-[🔗 Repository(https://github.com/justaksi7/fwe-event-planner))
+[🔗 Repository(https://github.com/justaksi7/fwe-event-planner)
 
 > Eine Webanwendung für Event-Planning, angelehnt an Calendly. Die Seite war initial online (AWS), wurde aber aufgrund von Kosten wieder heruntergenommen.
 
