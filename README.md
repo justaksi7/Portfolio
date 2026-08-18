@@ -699,7 +699,6 @@ Classification of handwritten images using **CNNs** with Keras and TensorFlow.
 ---
 ---
 
-## 🎓 Bachelor's Thesis
 ⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 ---
 # 📫 Contact & Profiles
