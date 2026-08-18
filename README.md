@@ -1,196 +1,201 @@
-# 👋 Hallo, ich bin Aksel Kenanov!
+<a id="-inhaltsverzeichnis"></a>
+# 👋 Hello, I'm Aksel Kenanov!
 
-Ich bin ein Master-Student im ersten Fachsemester mit Fokus auf *Software Engineering* und *Cloud Computing*.
+I am a master's student in my first semester at the Technical University of Darmstadt with a focus on *Software Engineering* and *Cloud Computing*.
 
-Ich liebe es, technische Probleme kreativ zu lösen und ständig neue Tools & Technologien zu entdecken.
+I love solving technical problems creatively and constantly discovering new tools & technologies.
 
 ---
 
-## 📑 Inhaltsverzeichnis
-### 🏢 Praxisphase SAP Payments Bridge
-* [🏢 Praxisphase](#-praxisphase)
-### 🎓 Bachelorarbeit – Evaluation des OpenTelemetry-Overheads in AWS Lambda
-* [🎓 Bachelorarbeit](#-bachelorarbeit)
+## 📑 Table of Contents
+### 🏢 Internship: SAP Payments Bridge
+* [🏢 Internship](#-praxisphase)
+### 🎓 Bachelor's Thesis – Evaluation of OpenTelemetry Overhead in AWS Lambda
+* [🎓 Bachelor's Thesis](#-bachelorarbeit)
 
-### 🧰 Technologien & Tools
+### 🧰 Technologies & Tools
 
-* [💻 Programmiersprachen](#-programmiersprachen)
+* [💻 Programming Languages](#-programmiersprachen)
 * [🌐 Web & Application Development](#-web--application-development)
 * [⚙️ C / C++ Development](#️-c--c-development)
 * [☕ Java Development](#-java-development)
 * [🐍 Python & Machine Learning](#-python--machine-learning)
 * [🐘 PHP Development](#-php-development)
-* [🗄️ Datenbanken](#️-datenbanken)
+* [🗄️ Databases](#️-datenbanken)
 * [☁️ Cloud & DevOps](#️-cloud--devops)
-* [🧪 Testing & Qualitätssicherung](#-testing--qualitätssicherung)
+* [🧪 Testing & Quality Assurance](#-testing--qualitätssicherung)
 * [📊 Observability](#-observability)
-* [🔄 Agile Softwareentwicklung](#-agile-softwareentwicklung)
+* [🔄 Agile Software Development](#-agile-softwareentwicklung)
 
 
-### 💼 Projekte
+### 💼 Projects
 
-* [📊 Event Planner Webanwendung](#-event-planner-webanwendung)
-* [📱 Buchungsverwaltungssystem](#-buchungsverwaltungssystem)
-* [✈️ Reisebüro Simulation](#️-reisebüro-simulation)
-* [💼 Job-Portal](#-job-portal)
-* [🌍 Reiseplanung Webanwendung](#-reiseplanung-webanwendung)
-* [🖥️ Übungsseite für Betriebssysteme](#️-übungsseite-für-betriebssysteme)
-* [☕ Java Spring Boot Anwendung – Weiterentwicklung & Bug-Fixes](#-java-spring-boot-anwendung--weiterentwicklung--bug-fixes)
-* [🤖 Künstliche Intelligenz & Machine Learning](#-künstliche-intelligenz--machine-learning)
+* [📊 Event Planner Web Application](#-event-planner-webanwendung)
+* [📱 Booking Management System](#-buchungsverwaltungssystem)
+* [✈️ Travel Agency Simulation](#️-reisebüro-simulation)
+* [💼 Job Portal](#-job-portal)
+* [🌍 Travel Planning Web Application](#-reiseplanung-webanwendung)
+* [🖥️ Operating Systems Practice Site](#️-übungsseite-für-betriebssysteme)
+* [☕ Java Spring Boot Application – Development & Bug Fixes](#-java-spring-boot-anwendung--weiterentwicklung--bug-fixes)
+* [🤖 Artificial Intelligence & Machine Learning](#-künstliche-intelligenz--machine-learning)
 
-### 📫 Weitere Informationen
+### 📫 More Information
 
-* [📫 Kontakt & Profile](#-kontakt--profile)
+* [📫 Contact & Profiles](#-kontakt--profile)
 
 ---
 ---
 
-# 🏢 Praxisphase
+<a id="-praxisphase"></a>
+# 🏢 Internship
 
 ## 🏗️ SAP Payments Bridge
 
-> Im Rahmen meiner Praxisphase wurde eine resiliente, event-driven Microservice-Architektur für die Verarbeitung von SAP-Payments entwickelt. Der Schwerpunkt lag auf Ausfallsicherheit, zuverlässiger Nachrichtenverarbeitung und Observability.
+> As part of my internship, a resilient, event-driven microservice architecture was developed for processing SAP payments. The focus was on fault tolerance, reliable message processing, and observability.
 
 ### 🔗 Repository
 
 [Repository](https://github.com/justaksi7/b2b-sap-payment-bridge)
 
-### 🛠️ Technologien & Tools
+### 🛠️ Technologies & Tools
 
 **AWS** · **AWS Lambda** · **Amazon SQS** · **Amazon RDS** · **Amazon DynamoDB** · **AWS X-Ray** · **Amazon CloudWatch** · **OpenTelemetry** · **REST APIs** · **Microservices**
 
-### 🏛️ Architektur
+### 🏛️ Architecture
 
-- Serverless Microservice-Architektur
-- Event-driven Architecture
+- Serverless microservice architecture
+- Event-driven architecture
 - REST APIs
-- Asynchrone Kommunikation über **Amazon SQS**
-- Persistierung mit **Amazon RDS**
-- Outbox Pattern
-- Worker-basierte Verarbeitung
-- Integration mit SAP
-- Webhook-basierte Statusaktualisierung
+- Asynchronous communication via **Amazon SQS**
+- Persistence with **Amazon RDS**
+- Outbox pattern
+- Worker-based processing
+- Integration with SAP
+- Webhook-based status updates
 
-### 🛡️ Resilienz & Fehlertoleranz
+### 🛡️ Resilience & Fault Tolerance
 
-- Retry-Mechanismen mit **Exponential Backoff**
+- Retry mechanisms with **exponential backoff**
 - **Dead Letter Queues (DLQ)**
-- Circuit Breaker Pattern
-- Half-Open-Phase für kontrollierte Wiederherstellung
-- Schutz vor mehrfacher Verarbeitung von Payments
-- Zuverlässige und fehlertolerante Nachrichtenverarbeitung
-- Zustandsbasierte Verarbeitung von Payments
+- Circuit breaker pattern
+- Half-open phase for controlled recovery
+- Protection against duplicate processing of payments
+- Reliable and fault-tolerant message processing
+- State-based processing of payments
 
 ### 📊 Observability
 
 - **OpenTelemetry**
 - **AWS X-Ray**
 - **Amazon CloudWatch**
-- Distributed Tracing
+- Distributed tracing
 - Correlation IDs
 - Logging
 - Metrics
 - Monitoring
-- Queue- und DLQ-Monitoring
+- Queue & DLQ monitoring
 
-### 👨‍💻 Rolle
+### 👨‍💻 Role
 
-Cloud Solution Architect im Rahmen der Praxisphase.
+Cloud Solution Architect during the internship.
 
 ### 🖼️ Screenshots
 
-<img src="images/praxisphase/architecture-diagram.png" alt="Praxisphase Screenshot" width="600">
+<img src="images/praxisphase/architecture-diagram.png" alt="Internship Screenshot" width="600">
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 ---
-# 🎓 Bachelorarbeit
+<a id="-bachelorarbeit"></a>
+# 🎓 Bachelor's Thesis
 
-## 📊 Evaluation des OpenTelemetry-Overheads in AWS Lambda
+## 📊 Evaluation of OpenTelemetry Overhead in AWS Lambda
 
-> Im Rahmen meiner Bachelorarbeit wurde der Performance- und Ressourcen-Overhead durch OpenTelemetry-Instrumentierung in AWS-Lambda-Workloads untersucht. Dabei wurden Lambda-Funktionen in **Java, Node.js und Python** sowohl ohne Instrumentierung als auch mit OpenTelemetry ausgeführt und miteinander verglichen.
+> For my bachelor's thesis, the performance and resource overhead introduced by OpenTelemetry instrumentation in AWS Lambda workloads was investigated. Lambda functions in **Java, Node.js and Python** were executed both without instrumentation and with OpenTelemetry and compared.
 
 ### 🔗 Repository
 
 [📂 GitHub Repository](https://github.com/justaksi7/opentelemetry-overhead-java-nodejs-python)
 
-### 🛠️ Technologien & Tools
+### 🛠️ Technologies & Tools
 
 **AWS Lambda** · **Java** · **Node.js** · **Python** · **OpenTelemetry** · **Amazon DynamoDB** · **AWS CloudWatch** · **HTTP** · **GitHub**
 
-### 🎯 Zielsetzung
+### 🎯 Objective
 
-Untersuchung der Auswirkungen von OpenTelemetry-Instrumentierung auf die Performance und den Ressourcenverbrauch serverloser Anwendungen.
+Investigate the impact of OpenTelemetry instrumentation on the performance and resource consumption of serverless applications.
 
-Verglichen wurden:
+The comparison included:
 
-* Nicht instrumentierte Lambda-Funktionen (**Baseline**)
-* Mit OpenTelemetry instrumentierte Lambda-Funktionen
-* Drei Programmiersprachen: **Java, Node.js und Python**
-* **Kaltstarts und Warmstarts**
+* Uninstrumented Lambda functions (**baseline**)
+* Lambda functions instrumented with OpenTelemetry
+* Three programming languages: **Java, Node.js and Python**
+* **Cold starts and warm starts**
 
 ### 🧪 Microbenchmarks
 
-Für die Evaluation wurden fünf verschiedene Zugriffsszenarien untersucht:
+Five different access scenarios were evaluated:
 
-* **Lambda-to-Lambda Invocation**
+* **Lambda-to-Lambda invocation**
 
-  * Asynchroner Aufruf einer zweiten Lambda-Funktion
+  * Asynchronous invocation of a second Lambda function
 
-* **HTTP GET Request**
+* **HTTP GET request**
 
-  * Ausgehende HTTP-Kommunikation
+  * Outgoing HTTP communication
 
-* **HTTP POST Request**
+* **HTTP POST request**
 
-  * Ausgehende HTTP-Kommunikation mit Request-Body
+  * Outgoing HTTP communication with request body
 
-* **DynamoDB Read**
+* **DynamoDB read**
 
-  * Lesen eines einzelnen Datensatzes aus Amazon DynamoDB
+  * Reading a single item from Amazon DynamoDB
 
-* **DynamoDB Write**
+* **DynamoDB write**
 
-  * Schreiben eines einzelnen Datensatzes in Amazon DynamoDB
+  * Writing a single item to Amazon DynamoDB
 
-Damit werden Lambda-Aufrufe, HTTP-Kommunikation sowie Datenbankzugriffe innerhalb einer AWS-Umgebung abgedeckt.
+These cover Lambda invocations, HTTP communication, and database access within an AWS environment.
 
-### 📏 Gemessene Metriken
+### 📏 Metrics Measured
 
 * **Duration**
 * **Init Duration**
 * **Max Memory Used**
-* Relativer OpenTelemetry-Overhead in Prozent
-* Absolute Messwerte
-* Vergleich von Kalt- und Warmstarts
+* Relative OpenTelemetry overhead in percent
+* Absolute measurements
+* Comparison of cold and warm starts
 
-Die Messungen wurden zwischen dem **02.03.2026 und 07.03.2026** durchgeführt.
+Measurements were conducted between **02.03.2026 and 07.03.2026**.
 
-### 📈 Ergebnisse
+### 📈 Results
 
-Die Evaluation zeigt deutliche Unterschiede zwischen den Programmiersprachen und den verschiedenen Ausführungsszenarien. Die detaillierten Ergebnisse liegen im [📂 GitHub Repository](https://github.com/justaksi7/opentelemetry-overhead-java-nodejs-python).
+The evaluation shows significant differences between the programming languages and the various execution scenarios. Detailed results are available in the [📂 GitHub Repository](https://github.com/justaksi7/opentelemetry-overhead-java-nodejs-python).
 
-### 👨‍🎓 Rolle
+### 👨‍🎓 Role
 
-**Autor und Entwickler der Bachelorarbeit**
+**Author and developer of the bachelor's thesis**
 
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 
 ---
 
-# 🧰 Technologien & Tools
+# 🧰 Technologies & Tools
 
-## 💻 Programmiersprachen
+<a id="-programmiersprachen"></a>
+## 💻 Programming Languages
 
 **C / C++** · **Python** · **Java** · **JavaScript / TypeScript** · **SQL** · **Dart** · **PHP**
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
+<a id="-web--application-development"></a>
 ## 🌐 Web & Application Development
 
 ### Frontend
@@ -201,42 +206,45 @@ Die Evaluation zeigt deutliche Unterschiede zwischen den Programmiersprachen und
 
 **Node.js** · **Express** · **PHP**
 
-### Weitere Technologien
+### Other Technologies
 
-**REST APIs** · **Responsive Web Design** · **ORM** · **API-Integration**
+**REST APIs** · **Responsive Web Design** · **ORM** · **API Integration**
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
+<a id="️-c--c-development"></a>
 ## ⚙️ C / C++ Development
 
-* Businessanwendungen mit **Qt**
-* 3D-Computergrafik mit **Qt 3D**
-* Embedded Programming mit **Raspberry Pi Pico**
+* Business applications with **Qt**
+* 3D computer graphics with **Qt 3D**
+* Embedded programming with **Raspberry Pi Pico**
 * Multithreading
 * Threads
-* Mutexe
-* Semaphore
+* Mutexes
+* Semaphores
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
+<a id="-java-development"></a>
 ## ☕ Java Development
 
 * **Java**
 * **Spring Boot**
-* Businessanwendungen
+* Business applications
 * **Mustache**
-* CI/CD mit **GitLab Pipelines**
-* Unit Testing
-* Software-Metriken mit **SonarQube**
+* CI/CD with **GitLab Pipelines**
+* Unit testing
+* Software metrics with **SonarQube**
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
+<a id="-python--machine-learning"></a>
 ## 🐍 Python & Machine Learning
 
 ### Python
@@ -245,61 +253,64 @@ Die Evaluation zeigt deutliche Unterschiede zwischen den Programmiersprachen und
 
 ### Machine Learning
 
-* Feature Engineering
+* Feature engineering
 * Classification
 * Regression
-* Unsupervised Learning
+* Unsupervised learning
 * KNN
 * PCA
 
 ### Deep Learning
 
-* Artificial Neural Networks
-* Convolutional Neural Networks
+* Artificial neural networks
+* Convolutional neural networks
 * **Keras**
 * **TensorFlow**
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
+<a id="-php-development"></a>
 ## 🐘 PHP Development
 
-* Backend-Entwicklung
-* PHP ohne Framework
+* Backend development
+* PHP without a framework
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
-## 🗄️ Datenbanken
+<a id="️-datenbanken"></a>
+## 🗄️ Databases
 
 * **PostgreSQL**
 * **DynamoDB**
 * **Drizzle ORM**
 * **pgAdmin**
 * **SAP PowerDesigner**
-* Datenbankdesign
-* Datenbankadministration
-* ORM & Migrationen
+* Database design
+* Database administration
+* ORM & migrations
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
+<a id="️-cloud--devops"></a>
 ## ☁️ Cloud & DevOps
 
 ### Cloud
 
 * **AWS**
 * Serverless
-* Cloud Deployment
+* Cloud deployment
 
 ### Software Architecture
 
 * Microservices
 * REST APIs
-* Event-driven Architecture
+* Event-driven architecture
 
 ### DevOps
 
@@ -312,25 +323,27 @@ Die Evaluation zeigt deutliche Unterschiede zwischen den Programmiersprachen und
 * CI/CD
 * SonarQube
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
-## 🧪 Testing & Qualitätssicherung
+<a id="-testing--qualitätssicherung"></a>
+## 🧪 Testing & Quality Assurance
 
-* Unit Testing
-* Integration Testing
-* API Testing
-* Performance Testing
-* Load Testing
-* Testautomatisierung
-* Software Metrics
+* Unit testing
+* Integration testing
+* API testing
+* Performance testing
+* Load testing
+* Test automation
+* Software metrics
 * SonarQube
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
+<a id="-observability"></a>
 ## 📊 Observability
 
 * **OpenTelemetry**
@@ -338,33 +351,35 @@ Die Evaluation zeigt deutliche Unterschiede zwischen den Programmiersprachen und
 * **Amazon CloudWatch**
 * Logging
 * Metrics
-* Distributed Tracing
+* Distributed tracing
 * Monitoring
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
-## 🔄 Agile Softwareentwicklung
+<a id="-agile-softwareentwicklung"></a>
+## 🔄 Agile Software Development
 
 * **SCRUM**
-* SCRUM Boards
-* Kanban Boards
-* Requirements Engineering
-* User Research
-* Teamarbeit in Softwareprojekten
+* SCRUM boards
+* Kanban boards
+* Requirements engineering
+* User research
+* Teamwork in software projects
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
-# 💼 Projekte
+# 💼 Projects
 
-## 📊 Event Planner Webanwendung
+<a id="-event-planner-webanwendung"></a>
+## 📊 Event Planner Web Application
 
 [🔗 Repository](https://github.com/justaksi7/fwe-event-planner)
 
-> Eine Webanwendung für Event-Planning, angelehnt an Calendly. Die Seite war initial online (AWS), wurde aber aufgrund von Kosten wieder heruntergenommen.
+> A web application for event planning, inspired by Calendly. The site was initially online (AWS) but was taken down due to costs.
 
 ### 🛠️ Stack
 
@@ -372,17 +387,17 @@ Die Evaluation zeigt deutliche Unterschiede zwischen den Programmiersprachen und
 
 ### ✨ Features
 
-* Express-Server
-* PostgreSQL Docker Image
-* ORM und Migrationen mit Drizzle ORM
-* Validierung mit Zod
-* React mit TypeScript
-* ShadCN-UI
-* AWS Deployment
+* Express server
+* PostgreSQL Docker image
+* ORM and migrations with Drizzle ORM
+* Validation with Zod
+* React with TypeScript
+* ShadCN UI
+* AWS deployment
 
-### 👨‍💻 Rolle
+### 👨‍💻 Role
 
-Developer in einem **SCRUM-Team mit 5 Personen**
+Developer in a **SCRUM team of 5 people**
 
 ### 🖼️ Screenshots
 
@@ -402,18 +417,19 @@ Developer in einem **SCRUM-Team mit 5 Personen**
 
 <video width="600" controls>
   <source src="images/fwe-event-planner/fwe-event-planner-demo.mp4" type="video/mp4">
-  Dein Browser unterstützt das Video-Tag nicht.
+  Your browser does not support the video tag.
 </video>
 
 [Video Demo](images/fwe-event-planner/fwe-event-planner-demo.mp4)
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
-## 📱 Buchungsverwaltungssystem
+<a id="-buchungsverwaltungssystem"></a>
+## 📱 Booking Management System
 
-> Eine Cross-Platform-App zur Buchung und Verwaltung von Events mit mehreren Nutzern.
+> A cross-platform app for booking and managing events with multiple users.
 
 ### 🛠️ Stack
 
@@ -421,59 +437,61 @@ Developer in einem **SCRUM-Team mit 5 Personen**
 
 ### ✨ Features
 
-* Responsive Design
+* Responsive design
 * UX / UI
-* Requirements Engineering
-* User Research mit echten Nutzern
+* Requirements engineering
+* User research with real users
 
-### 👨‍💻 Rolle
+### 👨‍💻 Role
 
-Developer in einem **SCRUM-Team mit 4 Personen**
+Developer in a **SCRUM team of 4 people**
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
-## ✈️ Reisebüro Simulation
+<a id="️-reisebüro-simulation"></a>
+## ✈️ Travel Agency Simulation
 
-> Eine C++ Desktopanwendung mit Qt.
+> A C++ desktop application using Qt.
 
 ### 🛠️ Stack
 
-**C++** · **Qt** · Gemockte JSON-Datenbank
+**C++** · **Qt** · Mocked JSON database
 
 ### ✨ Features
 
-* Graph-Algorithmen
-* Vermeidung von Datumkonflikten
+* Graph algorithms
+* Avoidance of date conflicts
 * Desktop GUI
 
-### 👨‍💻 Rolle
+### 👨‍💻 Role
 
-**Solo-Projekt**
+**Solo project**
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
-## 💼 Job-Portal
+<a id="-job-portal"></a>
+## 💼 Job Portal
 
-> Eine Job-Portal-Simulation mit Fokus auf das Frontend.
+> A job portal simulation focusing on the frontend.
 
 ### 🛠️ Stack
 
-**React** · **JavaScript** · **Tailwind CSS** · Gemockter JSON-Server
+**React** · **JavaScript** · **Tailwind CSS** · Mocked JSON server
 
 ### ✨ Features
 
-* JSON-Server Parsing
-* Verschiedene React Hooks
+* JSON server parsing
+* Various React hooks
 * React-Toastify
-* Responsive Frontend
+* Responsive frontend
 
-### 👨‍💻 Rolle
+### 👨‍💻 Role
 
-**Solo-Projekt**
+**Solo project**
 
 ### 🖼️ Screenshots
 
@@ -487,15 +505,16 @@ Developer in einem **SCRUM-Team mit 4 Personen**
 
 <img src="images/React-Jobs/5.png" alt="Job Portal Screenshot 5" width="600">
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
-## 🌍 Reiseplanung Webanwendung
+<a id="-reiseplanung-webanwendung"></a>
+## 🌍 Travel Planning Web Application
 
 [🔗 Repository](https://github.com/justaksi7/fwe-ss-25-1118200)
 
-> Eine Reiseplanungs-Web-App mit Reisen, Reisezielen und Wettervorhersagen.
+> A travel planning web app with trips, destinations and weather forecasts.
 
 ### 🛠️ Stack
 
@@ -503,17 +522,17 @@ Developer in einem **SCRUM-Team mit 4 Personen**
 
 ### ✨ Features
 
-* Express-Server
-* PostgreSQL Docker Image
-* ORM und Migrationen mit Drizzle ORM
-* Validierung mit Zod
-* Externe REST-API für Wettervorhersagen
-* React Frontend
+* Express server
+* PostgreSQL Docker image
+* ORM and migrations with Drizzle ORM
+* Validation with Zod
+* External REST API for weather forecasts
+* React frontend
 * Tailwind CSS
 
-### 👨‍💻 Rolle
+### 👨‍💻 Role
 
-**Solo-Projekt**
+**Solo project**
 
 ### 🖼️ Screenshots
 
@@ -525,20 +544,21 @@ Developer in einem **SCRUM-Team mit 4 Personen**
 
 <video width="600" controls>
   <source src="images/react-travel-agency/react-travel-agency-demo.mp4" type="video/mp4">
-  Dein Browser unterstützt das Video-Tag nicht.
+  Your browser does not support the video tag.
 </video>
 
 [Video Demo](images/react-travel-agency/react-travel-agency-demo.mp4)
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
-## 🖥️ Übungsseite für Betriebssysteme
+<a id="️-übungsseite-für-betriebssysteme"></a>
+## 🖥️ Operating Systems Practice Site
 
 [🔗 Repository](https://github.com/justaksi7/pse-react)
 
-> Eine interaktive React-Anwendung zum Üben verschiedener Algorithmen aus dem Bereich Betriebssysteme, z. B. Banker-Algorithmus, Scheduler und Deadlock Detection. Die Webanwendung wird tatsächlich von der Hochschule Darmstadt deployed, damit neue Studierende interaktiv für die Vorlesung Betriebssysteme lernen können.
+> An interactive React application to practice various algorithms from the operating systems domain, e.g., Banker's algorithm, schedulers, and deadlock detection. The web application is actually deployed by Hochschule Darmstadt so that new students can learn interactively for the operating systems lecture.
 
 ### 🛠️ Stack
 
@@ -546,16 +566,16 @@ Developer in einem **SCRUM-Team mit 4 Personen**
 
 ### ✨ Features
 
-* Interaktive Scheduling-Algorithmen
-* Banker-Algorithmus
-* Scheduler
-* Deadlock Detection
-* Tokens für spezifische Aufgaben
-* PostgreSQL Leaderboard
+* Interactive scheduling algorithms
+* Banker's algorithm
+* Schedulers
+* Deadlock detection
+* Tokens for specific tasks
+* PostgreSQL leaderboard
 
-### 👨‍💻 Rolle
+### 👨‍💻 Role
 
-Developer in einem **SCRUM-Team mit 5 Personen**
+Developer in a **SCRUM team of 5 people**
 
 ### 🖼️ Screenshots
 
@@ -577,35 +597,36 @@ Developer in einem **SCRUM-Team mit 5 Personen**
 
 <video width="600" controls>
   <source src="images/react-trainer/react-trainer-demo.mp4" type="video/mp4">
-  Dein Browser unterstützt das Video-Tag nicht.
+  Your browser does not support the video tag.
 </video>
 
 [Video Demo](images/react-trainer/react-trainer-demo.mp4)
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
-## ☕ Java Spring Boot Anwendung – Weiterentwicklung & Bug-Fixes
+<a id="-java-spring-boot-anwendung--weiterentwicklung--bug-fixes"></a>
+## ☕ Java Spring Boot Application – Development & Bug Fixes
 
-> Eine Java-Web-Anwendung mit Spring Boot.
+> A Java web application built with Spring Boot.
 
 ### 🛠️ Stack
 
-**Java Spring Boot** · **Mustache** · **Apache Tomcat** · App-interne Hash-Repositories
+**Java Spring Boot** · **Mustache** · **Apache Tomcat** · App-internal hash repositories
 
 ### ✨ Features
 
-* Interne Quasi-Datenbank mit Hash-Repositories
-* Authentifizierung mit Passwort-Validierung
-* Layouts mit Mustache
-* CI/CD mit GitLab Pipelines
-* Unit Tests
-* Software-Metriken mit SonarQube
+* Internal quasi-database with hash repositories
+* Authentication with password validation
+* Layouts with Mustache
+* CI/CD with GitLab Pipelines
+* Unit tests
+* Software metrics with SonarQube
 
-### 👨‍💻 Rolle
+### 👨‍💻 Role
 
-Developer in einem **SCRUM-Team mit 4 Personen**
+Developer in a **SCRUM team of 4 people**
 
 ### 🖼️ Screenshots
 
@@ -619,13 +640,14 @@ Developer in einem **SCRUM-Team mit 4 Personen**
 
 <img src="images/Java/5.png" alt="Java Spring Boot Screenshot 5" width="600">
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
-## 🤖 Künstliche Intelligenz & Machine Learning
+<a id="-künstliche-intelligenz--machine-learning"></a>
+## 🤖 Artificial Intelligence & Machine Learning
 
-> Im Rahmen der Vorlesung „Einführung in die Künstliche Intelligenz“ entwickelte Python-Skripte und Anwendungen.
+> As part of the “Introduction to Artificial Intelligence” course, Python scripts and applications were developed.
 
 ### 🛠️ Stack
 
@@ -633,28 +655,28 @@ Developer in einem **SCRUM-Team mit 4 Personen**
 
 ### 📈 Classification
 
-Vorhersage der Personen, die den Titanic-Unfall überlebt haben, mittels **Feature Engineering** und **Classification**.
+Prediction of which people survived the Titanic incident using **feature engineering** and **classification**.
 
 ### 📊 Regression
 
-Vorhersage der Umsätze von Filmen aus **The Movie Database** mittels Feature Engineering und Regression.
+Prediction of movie revenues from **The Movie Database** using feature engineering and regression.
 
 ### 🧠 Convolutional Neural Networks
 
-Klassifikation handgeschriebener Bilder anhand von **CNNs** mit Keras und TensorFlow.
+Classification of handwritten images using **CNNs** with Keras and TensorFlow.
 
-### 🖼️ CNN Beispiel
+### 🖼️ CNN Example
 
 <img src="images/CNN/1.png" alt="Convolutional Neural Network Screenshot" width="600">
 
 ### 🔍 Unsupervised Learning
 
-* KNN-Algorithmus
-* PCA-Transformation
-* Verbesserung der Klassifikation
-* Generierung neuer Bilder mit PCA-Inverse-Transformation
+* KNN algorithm
+* PCA transformation
+* Improvement of classification
+* Generation of new images with PCA inverse transformation
 
-### 🖼️ Unsupervised Learning Beispiele
+### 🖼️ Unsupervised Learning Examples
 
 <img src="images/Unsupervised Learning/1.png" alt="Unsupervised Learning Screenshot 1" width="600">
 
@@ -668,25 +690,27 @@ Klassifikation handgeschriebener Bilder anhand von **CNNs** mit Keras und Tensor
 
 <img src="images/Unsupervised Learning/6.png" alt="Unsupervised Learning Screenshot 6" width="600">
 
-### 👨‍💻 Rolle
+### 👨‍💻 Role
 
-**Solo-Projekte**
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+**Solo projects**
+
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 ---
-## 🎓 Bachelorarbeit
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+
+## 🎓 Bachelor's Thesis
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 ---
-# 📫 Kontakt & Profile
+# 📫 Contact & Profiles
 
 * 🧑‍💻 [GitHub](https://github.com/justaksi7)
 * ✉️ [aksel.kenanov@gmail.com](mailto:aksel.kenanov@gmail.com)
 
-⬆️ [Zurück zum Inhaltsverzeichnis](#-inhaltsverzeichnis)
+⬆️ [Back to Table of Contents](#-inhaltsverzeichnis)
 
 ---
 
-> 📌 *Manche Projekte haben keine Repository-Links und/oder Screenshots, weil sie hochschulintern sind (Datenschutz).*
+> 📌 *Some projects have no repository links and/or screenshots because they are internal to the university (data protection).* 
 >
-> 📌 *Dieses Profil ist noch im Aufbau – Feedback und Anregungen willkommen!*
+> 📌 *This profile is still under construction – feedback and suggestions are welcome!*
